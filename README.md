@@ -6,4 +6,4 @@
 
 + 50 Cool Raspberry Pi Projects for July 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
 
-+ 
+
