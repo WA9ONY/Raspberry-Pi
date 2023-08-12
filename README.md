@@ -10,3 +10,28 @@
 Microsofft [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners?utm_source=Bazaar+%EF%BC%88%E7%94%B5%E5%95%86%EF%BC%89&utm_campaign=dbaca736d7-Bazaar_7_27_COPY_01&utm_medium=email&utm_term=0_4b071a49e3-dbaca736d7-51625978&ct=t()&mc_cid=dbaca736d7&mc_eid=f23c6667d6)
 
 
+What is the difference between the Raspberry pi Zero V1.3 and the V1.1?
+
+The Raspberry Pi Zero V1.3 has a camera connector while the V1.1 does not have one¹. The Pi Zero W v1.1 does come with the 15-pin MIPI camera interface (CSI) connector - it is just not labelled as it is on the Pi Zero v1.3². 
+
+I hope this helps!
+
+Source: Conversation with Bing, 8/10/2023
++ (1) Raspberry Pi zero v1.3 Vs Raspberry Pi Zero W v1.1. https://forums.raspberrypi.com/viewtopic.php?t=266055.
++ (2) "Raspberry Pi Zero W" version Help. https://raspberrypi.stackexchange.com/questions/89983/raspberry-pi-zero-w-version-help.
++ (3) Evolution of Raspberry Pi Zero in 3 Versions - TECHDesign Blog. https://blog.techdesign.com/evolution-raspberry-pi-zero-3-versions/.
++ (4) Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started. https://www.tomshardware.com/features/raspberry-pi-zero.
+
+What is the difference between the Raspberry pi Zero W and the Raspberry pi Zero W2?
+
+The Raspberry Pi Zero W is a low power computer with WiFi and Bluetooth capabilities. It is designed to be flexible and compact with mini connectors and an unpopulated 40-pin GPIO. It has a 1GHz BCM2835 single-core processor and 512MB RAM¹. The Raspberry Pi Zero 2 W is an updated version with a quad-core 64-bit ARM Cortex-A53 processor clocked at 1GHz and 512MB of SDRAM, making it up to five times faster than the original Raspberry Pi Zero¹. 
+
+I hope this helps!
+
+Source: Conversation with Bing, 8/10/2023
++ (1) Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started. https://www.tomshardware.com/features/raspberry-pi-zero.
++ (2) . https://bing.com/search?q=difference+between+Raspberry+pi+Zero+W+and+Raspberry+pi+Zero+W2.
++ (3) Raspberry Pi Zero 2 W vs Raspberry Pi Zero W: What Upgrades ... - Beebom. https://beebom.com/raspberry-pi-zero-2-w-vs-raspberry-pi-zero-w/.
++ (4) Raspberry Pi Zero 2 W vs. Raspberry Pi Zero W - SB Components Ltd. https://shop.sb-components.co.uk/blogs/posts/raspberry-pi-zero-2-w-vs-raspberry-pi-zero-w-comparison.
++ (5) Raspberry Pi Zero 2 W Review: The Long Awaited Sequel. https://www.tomshardware.com/reviews/raspberry-pi-zero-2-w-review.
++ (6) New product: Raspberry Pi Zero 2 W on sale now at $15. https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/.
