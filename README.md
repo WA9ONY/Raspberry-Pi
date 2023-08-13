@@ -4,7 +4,11 @@
 
 # Raspberry Pi Computer Project Notes Index
 + Project 1: <A HREF="README.md#P1">Raspberry Pi Models</A>
-+ Project 1: <A HREF="README.md#P1">Raspberry Pi Imager</A>
++ Project 2: <A HREF="README.md#P2">Raspberry Pi Imager</A>
++ Project 3: <A HREF="README.md#P3">Raspberry Pi Projects</A>
++ Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
++ Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
++ Project 6: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -12,12 +16,22 @@
     
 # Project 1: Raspberry Pi Models
 
+Prices as of August 12, 2023
++ $10 Raspberry Pi Zero V1.3
++ $15 Raspberry Pi Zero W (sometimes available in 2023)
++ $15 Raspberry Pi Zero 2 W
++ $35 Raspberry Pi 4 Model B 1 GbRAM (sometimes available in 2023)
++ $45 Raspberry Pi 4 Model B 2 GbRAM
++ $55 Raspberry Pi 4 Model B 4 GbRAM (sometimes available in 2023)
++ $70 Raspberry Pi 4 Model B 8 GbRAM (sometimes available in 2023)
++ $70 Raspberry Pi 400 4 GbRAM (sometimes available in 2023)
 
+ 
 <A NAME="P2"></A>
 <HR>
 <P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
     
-# Project 2: Raspberry Pi Models
+# Project 2: Raspberry Pi Imager
 
 
 <A NAME="P3"></A>
@@ -36,13 +50,6 @@
 # Project 4: Raspberry Pi IoT
 
 + Microsofft [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners?utm_source=Bazaar+%EF%BC%88%E7%94%B5%E5%95%86%EF%BC%89&utm_campaign=dbaca736d7-Bazaar_7_27_COPY_01&utm_medium=email&utm_term=0_4b071a49e3-dbaca736d7-51625978&ct=t()&mc_cid=dbaca736d7&mc_eid=f23c6667d6)
-
-
-
-
-<P align="center"><A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A><BR>
-<A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
-
 
 
 <A NAME="P5"></A>
@@ -68,9 +75,9 @@ Source: Conversation with Bing, 8/10/2023
 <HR>
 <P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
-# Project 6 Raspberry Pi Zero W and the Raspberry Pi Zero W2
+# Project 6 Raspberry Pi Zero W & Zero W2
 
-What is the difference between the Raspberry Pi Zero W and the Raspberry pi Zero W2?
+## Bing Chat: What is the difference between the Raspberry Pi Zero W and the Raspberry pi Zero W2?
 
 The Raspberry Pi Zero W is a low power computer with WiFi and Bluetooth capabilities. It is designed to be flexible and compact with mini connectors and an unpopulated 40-pin GPIO. It has a 1GHz BCM2835 single-core processor and 512MB RAM¹. The Raspberry Pi Zero 2 W is an updated version with a quad-core 64-bit ARM Cortex-A53 processor clocked at 1GHz and 512MB of SDRAM, making it up to five times faster than the original Raspberry Pi Zero¹. 
 
