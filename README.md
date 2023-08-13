@@ -36,17 +36,17 @@ Prices as of August 12, 2023
 The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
 
 <p align="center">
-<img width="734" height="364" src="/Images/AI.png">  
+<img width="682" height="452" src="/Images/RPIimagerOS32Lite.png">  
 </p>
 
 
 <p align="center">
-<img width="734" height="364" src="/Images/AI.png">  
+<img width="817" height="817" src="/Images/RPIimagerM.png">  
 </p>
 
 
 <p align="center">
-<img width="734" height="364" src="/Images/AI.png">  
+<img width="811" height="741" src="/Images/RPIimagerMs.png">  
 </p>
 
 
