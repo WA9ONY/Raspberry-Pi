@@ -118,3 +118,8 @@ Source: Conversation with Bing, 8/10/2023
 
 YouTube
 + The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
+
+
+<p align="center">
+<img width="682" height="452" src="/Images/pystoneBookworm64.png">  
+</p>
