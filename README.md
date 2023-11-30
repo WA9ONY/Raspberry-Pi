@@ -120,6 +120,160 @@ YouTube
 + The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
 
 
+<A NAME="P8"></A>
+<HR>
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 8 Pystone Benchmark
+
+Certainly! As a college computer science professor, introducing the Pystone benchmark in a Python programming class would involve explaining its purpose, history, and how it is used. Here's how you might start the class:
+
+---
+
+**Introduction to Pystone Benchmark**
+
+*Python benchmark measures the performance of Python interpreter.*
+
+*1. **What is Pystone?**
+   - Pystone is a benchmarking tool used to measure the performance of the Python interpreter.
+   - It was developed as part of the "Standard Performance Evaluation Corporation" (SPEC).
+   - The name 'Pystone' is a play on the Dhrystone benchmark, which is a well-known C benchmarking tool.*
+
+*2. **Purpose of Pystone**
+   - Pystone measures the execution speed of Python by running a set of standard operations.
+   - It helps in comparing the performance of different Python interpreters and different versions of Python.
+   - It is not designed to benchmark the performance of Python applications in general, but rather the Python interpreter itself.*
+
+*3. **How Pystone Works**
+   - It runs a series of Python statements repeatedly and measures the time taken for these executions.
+   - The score is calculated in terms of "Pystones per second", where higher scores indicate better performance.*
+
+*4. **Why Use Pystone?**
+   - To evaluate the efficiency of Python interpreters on different platforms.
+   - To track performance improvements or regressions between different versions of Python.
+   - It's a simple, quick, and widely recognized standard.*
+
+*5. **Limitations of Pystone**
+   - Pystone focuses on CPU-bound tasks and does not measure aspects like I/O operations, network performance, or GUI performance.
+   - It may not represent the performance of real-world Python applications, as they often involve a mix of tasks.*
+
+
+---
+Certainly! The Pystone benchmark is a classic Python benchmark script. Here's a typical version of the Pystone source code. Keep in mind that this code is based on the version that was included in the Python distribution up until Python 3.6, and it is representative of the benchmark as it existed at that time.
+
+```python
+"""
+"Pystone" is a Python benchmark that was part of the standard library.
+"""
+
+from __future__ import division
+import sys
+import time
+
+__author__ = "Samual S. Smith"
+__version__ = "1.2"
+
+LOOPS = 50000
+
+class Record:
+    def __init__(self, ptr, i, j):
+        self.ptr = ptr
+        self.i = i
+        self.j = j
+
+def pystones(loops=LOOPS):
+    return Proc0(loops)
+
+def Proc0(loops):
+    global IntGlob, BoolGlob, Char1Glob, Char2Glob, Array1Glob, Array2Glob, PtrGlb, PtrGlbNext
+    IntGlob = 0
+    BoolGlob = False
+    Char1Glob = '\0'
+    Char2Glob = '\0'
+    Array1Glob = [0] * 51
+    Array2Glob = [0] * 51 * 51
+    PtrGlb = None
+    PtrGlbNext = None
+    PtrGlb = Record(None, 0, 0)
+    PtrGlbNext = Record(PtrGlb, 0, 0)
+    PtrGlb.ptr = PtrGlbNext
+    PtrGlbNext.ptr = PtrGlb
+
+    for i in range(loops):
+        Proc1(PtrGlb)
+    return loops
+
+def Proc1(PtrParIn):
+    PtrParIn.ptr = NextRecord = PtrParIn.ptr
+    if NextRecord is not None:
+        Proc3(NextRecord.ptr)
+    if IntGlob in (1, 2):
+        PtrParIn.i = 6
+    Proc7(10, IntGlob, PtrParIn.j)
+    NextRecord.i = PtrParIn.i
+    NextRecord.j = PtrParIn.j
+
+def Proc3(PtrParOut):
+    global IntGlob
+
+    if PtrGlb is not None:
+        PtrParOut = PtrGlb.ptr
+    else:
+        IntGlob = 100
+    Proc7(10, IntGlob, PtrParOut.i)
+
+def Proc7(IntParI1, IntParI2, IntParOut):
+    IntLoc = IntParI1 + 2
+    IntParOut = IntLoc + IntParI2
+
+def main():
+    loops = LOOPS
+    if len(sys.argv) > 1:
+        loops = int(sys.argv[1])
+
+    print("Pystone(%s) time for %d passes = %g" %
+          (__version__, loops, pystones(loops)))
+    print("This machine benchmarks at %g pystones/second" % (loops / pystones(loops)))
+
+if __name__ == '__main__':
+    main()
+```
+
+This code defines a set of procedures and a Record class, with the main logic in the `Proc0` function, which creates a linked list of `Record` objects and manipulates them in various ways. The `pystones` function serves as the entry point to run the benchmark, and the `main` function handles command-line arguments and prints the benchmark results.
+
+Please note that this is a historical benchmark and might not be suitable for benchmarking modern Python interpreters or applications, as it does not reflect current Python usage patterns.
+
+
+
+import sys
+import time
+
+def pystone(loops):
+    sys.stdout.write("Pystone(1.1) time for %d loops = " % loops)
+    start_time = time.perf_counter()
+    for i in range(loops):
+        foo = 0
+        for j in range(1, 13):
+            foo = foo + (i + j)
+        foo = foo + (i + j)
+        bar = i + foo
+        i = foo + bar
+    end_time = time.perf_counter()
+    sys.stdout.write("%7.1f fops\n" % (loops / (end_time - start_time)))
+
+if __name__ == "__main__":
+    pystone(1000000)
+
+
+
+YouTube
++ The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
+
+
 <p align="center">
 <img width="682" height="452" src="/Images/pystoneBookworm64.png">  
 </p>
+
+TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
+
+
