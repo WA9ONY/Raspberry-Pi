@@ -276,4 +276,5 @@ YouTube
 
 TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
 
-
+Explore the Basics of USB-C and USB Power Delivery
+<A HREF="https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery">ASME</A>
