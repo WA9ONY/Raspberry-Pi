@@ -286,6 +286,17 @@ YouTube
 
 The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
 
+The Raspberry Pi 5's official power supply is the 27W USB-C PD Power Supply. 
+This power supply can provide up to 5.1V, 5A. 
+When the USB-C PD Power Supply is detected, the total power available at the Pi 5's four USB ports increases from 600mA to 1.6A. 
+This allows the Raspberry Pi 5 to power more peripherals.
+
+
+<A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">ntroducing: Raspberry Pi 5!</A>
+
+Reddit
++ <A HREF="https://www.reddit.com/r/UsbCHardware/comments/16v1ub2/pi_5_5v5a/">Pi 5 - 5V5A?!</A>
+
 <A HREF="https://www.usb.org/">USB.org</A>
 + <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50">USB Power Delivery</A> documentation search
 
