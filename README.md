@@ -308,3 +308,6 @@ Trigger Modules and Cable
 USB-C PD Chargers
 + Amazon
   + <A HREF="https://www.amazon.com/UGREEN-Charger-Nexode-Compatible-MacBook/dp/B0B129DM9T/ref=sr_1_18?crid=26O4H7FBSGJO9&keywords=USB-C+PD+Chargers+UGREEN&qid=1701450258&s=electronics&sprefix=usb-c+pd+chargers+ugreen%2Celectronics%2C154&sr=1-18">UGREEN 140W USB C Charger</A>
+    + USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 28V/5A 140W Max PPS: 3.3-21V/5A;
+    + USB-C2: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 100W Max PPS: 3.3-21V/5A;
+    + USB-A: 4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max
