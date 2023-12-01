@@ -10,6 +10,8 @@
 + Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
 + Project 6: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
++ Project 8: <A HREF="README.md#P8">Micro text editor</A>
++ Project 9: <A HREF="README.md#P9">USB-C PD</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -112,7 +114,7 @@ Source: Conversation with Bing, 8/10/2023
 
 <A NAME="P7"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#8">--&gt;</A></P>  
     
 # Project 7 Micro text editor
 
@@ -122,7 +124,7 @@ YouTube
 
 <A NAME="P8"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#9">--&gt;</A></P>  
     
 # Project 8 Pystone Benchmark
 
@@ -278,7 +280,7 @@ YouTube
 
 <A NAME="P9"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 9 USB-C PD
 
