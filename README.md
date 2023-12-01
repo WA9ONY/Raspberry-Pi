@@ -274,13 +274,23 @@ YouTube
 <img width="682" height="452" src="/Images/pystoneBookworm64.png">  
 </p>
 
-USB.org
+<A HREF="https://www.usb.org/">USB.org</A>
 + <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50>USB Power Delivery</A> documentation
 
 YouTube
 + USB Power Delivery: Power for Portable (and Other) Products -- CUI Inc and Mouser Electronics <A HREF="https://youtu.be/n6Ie9N1LsCo?si=EGAhI6CALF5-gUoB">video</A>
++ USB Type-C Power Delivery Trigger Board || DIY or Buy<A HREF="https://youtu.be/DQLrZA5RMjQ?si=xICQGoj_c5sonMYX">video</A>
+  + <A HREF="https://www.tindie.com/products/reclaimerlabs/usb-c-explorer/">USB-C Explorer</A>
 
 TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
 
 Explore the Basics of USB-C and USB Power Delivery
 <A HREF="https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery">ASME</A>
+
+Shopping
++ Adafruit USB Type C Power Delivery Dummy Breakout - I2C or Fixed - <A HREF="https://www.adafruit.com/product/5807">HUSB238</A>
+  + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
++ AllExpress
++ Amazon
+  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Power+Trigger+Module&i=electronics&crid=YQZTFIWT0LE5&sprefix=usb-c+pd+power+trigger+module%2Celectronics%2C146&ref=nb_sb_noss">USB-C PD Power Trigger Module search</A>
+  + (5 Pack) JacobsParts USB-C PD 12V DC Fixed Voltage Power Trigger Module 5A Type-C Female Input  <A HREF="https://www.amazon.com/JacobsParts-Voltage-Trigger-Module-Type-C/dp/B08NFKV2LD/ref=pd_rhf_se_s_pd_sbs_rvi_sccl_2_1/132-2501716-5057064?pd_rd_w=59WjG&content-id=amzn1.sym.a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_p=a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_r=WGD46K1C12K42V117N77&pd_rd_wg=Trhpz&pd_rd_r=22bfe6ae-e490-486e-84da-fbbfe76a6677&pd_rd_i=B08NFKV2LD&th=1">Amazon</A>
