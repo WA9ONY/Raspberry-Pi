@@ -304,9 +304,11 @@ Trigger Modules and Cable
   + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
 + AllExpress
   + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD Trigger Module search</A>
+  + <A HREF="https://www.aliexpress.us/w/wholesale-USB-C-PD-Trigger-Cable.html?spm=a2g0o.productlist.search.0">USB C PD Trigger Cable search</A>
 + Amazon
   + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Power+Trigger+Module&i=electronics&crid=YQZTFIWT0LE5&sprefix=usb-c+pd+power+trigger+module%2Celectronics%2C146&ref=nb_sb_noss">USB-C PD Power Trigger Module search</A>
   + (5 Pack) JacobsParts USB-C PD 12V DC Fixed Voltage Power Trigger Module 5A Type-C Female Input  <A HREF="https://www.amazon.com/JacobsParts-Voltage-Trigger-Module-Type-C/dp/B08NFKV2LD/ref=pd_rhf_se_s_pd_sbs_rvi_sccl_2_1/132-2501716-5057064?pd_rd_w=59WjG&content-id=amzn1.sym.a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_p=a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_r=WGD46K1C12K42V117N77&pd_rd_wg=Trhpz&pd_rd_r=22bfe6ae-e490-486e-84da-fbbfe76a6677&pd_rd_i=B08NFKV2LD&th=1">Amazon</A>
+  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Trigger+Cable&i=electronics&crid=3KIT2RQ79MAB5&sprefix=usb-c+pd+trigger+cable%2Celectronics%2C153&ref=nb_sb_noss_1">USB-C PD Power Trigger Cable search</A>
 
 USB-C PD Chargers
 + Amazon
