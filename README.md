@@ -284,6 +284,8 @@ YouTube
     
 # Project 9 USB-C PD
 
+The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
+
 <A HREF="https://www.usb.org/">USB.org</A>
 + <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50">USB Power Delivery</A> documentation search
 
