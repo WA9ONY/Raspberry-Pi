@@ -274,8 +274,16 @@ YouTube
 <img width="682" height="452" src="/Images/pystoneBookworm64.png">  
 </p>
 
+
+
+<A NAME="P9"></A>
+<HR>
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 9 USB-C PD
+
 <A HREF="https://www.usb.org/">USB.org</A>
-+ <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50>USB Power Delivery</A> documentation
++ <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50">USB Power Delivery</A> documentation search
 
 YouTube
 + USB Power Delivery: Power for Portable (and Other) Products -- CUI Inc and Mouser Electronics <A HREF="https://youtu.be/n6Ie9N1LsCo?si=EGAhI6CALF5-gUoB">video</A>
