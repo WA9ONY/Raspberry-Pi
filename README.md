@@ -292,7 +292,7 @@ When the USB-C PD Power Supply is detected, the total power available at the Pi 
 This allows the Raspberry Pi 5 to power more peripherals.
 
 
-<A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">ntroducing: Raspberry Pi 5!</A>
+<A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">Introducing: Raspberry Pi 5!</A>
 
 Reddit
 + <A HREF="https://www.reddit.com/r/UsbCHardware/comments/16v1ub2/pi_5_5v5a/">Pi 5 - 5V5A?!</A>
