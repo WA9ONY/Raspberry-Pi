@@ -293,7 +293,8 @@ This allows the Raspberry Pi 5 to power more peripherals.
 
 Acroname
 + MASTERING USB-C: HOW USB-C ESTABLISHES A CONNECTION <A HREF="https://acroname.com/blog/mastering-usb-c-how-usb-establishes-a-connection#:~:text=A%20USB%2DC%20receptacle%20has,%2C%20for%20power%20(Vconn).">Link</A>
-
+  + E-Marked cable is required for 5A operation.
+ 
 Raspberry Pi
 + <A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">Introducing: Raspberry Pi 5!</A>
 
@@ -330,3 +331,5 @@ USB-C PD Chargers
     + USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 28V/5A 140W Max PPS: 3.3-21V/5A;
     + USB-C2: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 100W Max PPS: 3.3-21V/5A;
     + USB-A: 4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max
+
+<A HREF="https://goughlui.com/2021/08/31/quick-review-yzx-studio-zy12pdn-usb-c-pd-decoy-board/">Quick Review:</A> YZX Studio ZY12PDN USB-C PD Decoy Board
