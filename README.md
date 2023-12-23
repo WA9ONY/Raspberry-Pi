@@ -333,3 +333,32 @@ USB-C PD Chargers
     + USB-A: 4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max
 
 <A HREF="https://goughlui.com/2021/08/31/quick-review-yzx-studio-zy12pdn-usb-c-pd-decoy-board/">Quick Review:</A> YZX Studio ZY12PDN USB-C PD Decoy Board
+
+
+
+Raspberry Pi Model 5
+Raspberry Pi Model 5 Power Supply
+Raspberry Pi Model 5 Device Tree Blod
+
+https://en.wikipedia.org/wiki/Devicetree
+https://www.devicetree.org/
+
+YouTube
+Tutorial: Device Tree (DTS), Linux Board Bring-up and Kernel Version Changing
+https://youtu.be/N6IW7JJQASc?si=cw0jb5OyDysfZGDu
+
+PDFs
+Device Tree for Dummies 47 pages
+https://elinux.org/images/f/f9/Petazzoni-device-tree-dummies_0.pdf
+
+
+A device tree is a data structure and language for describing hardware. It is a description of hardware that is readable by an operating system so that the operating system doesn't need to hard code details of the machine. 
+
+The directory for DTS files is arch/[arch]/boot/dts/ within the kernel source tree. This is where the device tree compilation takes place and where the dtc looks for particular .dtsi files included in the .dts. DTS files are saved as XML files.DTS files are saved as XML files.
+
+A .dtsi file is a device tree source include file. The "i" in dtsi stands for "include". 
+The Device Tree Compiler (DTC) is used to compile the source into a binary form. The inclusion works by overlaying the tree of the including file over the tree of the included file, producing a combined compiled binary. 
+DTS files are a textual representation of a devicetree in a form that can be processed by dtc into a binary devicetree in the form expected by the kernel.
+
+Raspberry Pi Model 5 Cooling
+
