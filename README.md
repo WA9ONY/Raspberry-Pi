@@ -347,6 +347,9 @@ YouTube
 Tutorial: Device Tree (DTS), Linux Board Bring-up and Kernel Version Changing
 https://youtu.be/N6IW7JJQASc?si=cw0jb5OyDysfZGDu
 
+Device Tree: hardware description for everybody !
+https://youtu.be/Nz6aBffv-Ek?si=tPxAgwwjjWRGbfAY
+
 PDFs
 Device Tree for Dummies 47 pages
 https://elinux.org/images/f/f9/Petazzoni-device-tree-dummies_0.pdf
