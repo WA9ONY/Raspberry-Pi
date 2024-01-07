@@ -12,6 +12,7 @@
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
 + Project 8: <A HREF="README.md#P8">Micro text editor</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
++ Project 10: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Tutorials</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -374,7 +375,7 @@ Raspberry Pi Model 5 Cooling
 <HR>
 <P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
-# Project 10 YouTube Channel: Paul McWhorter
+# Project 10 YouTube Channel: Paul McWhorter Tutorials
 
-Paul McWhorter [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
+Paul McWhorter [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
 + ree Raspberry Pi Tutorials for Absolute Beginners [74 videos playlis](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
