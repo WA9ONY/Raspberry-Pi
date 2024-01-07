@@ -161,7 +161,7 @@ Certainly! As a college computer science professor, introducing the Pystone benc
 
 
 ---
-Certainly! The Pystone benchmark is a classic Python benchmark script. Here's a typical version of the Pystone source code. Keep in mind that this code is based on the version that was included in the Python distribution up until Python 3.6, and it is representative of the benchmark as it existed at that time.
+Certainly! The Pystone benchmark is a classic Python benchmark script. Here's a typical version of the Pystone source code. Keep in mind that this code is based on the version that was included in the Python distribution up until Python 3.6, and it is repreie.com/products/reclaimerlabs/usb-c-explorer/">USB-C Explorer</A>sentative of the benchmark as it existed at that time.
 
 ```python
 """
@@ -277,7 +277,6 @@ YouTube
 </p>
 
 
-
 <A NAME="P9"></A>
 <HR>
 <P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
@@ -370,3 +369,12 @@ DTS files are a textual representation of a devicetree in a form that can be pro
 
 Raspberry Pi Model 5 Cooling
 
+
+<A NAME="P10"></A>
+<HR>
+<P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 10 YouTube Channel: Paul McWhorter
+
+Paul McWhorter [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
++ ree Raspberry Pi Tutorials for Absolute Beginners [74 videos playlis](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
