@@ -21,7 +21,7 @@
     
 # Project 1: Raspberry Pi Models
 
-Prices as of August 12, 2023
+Prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
 + $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
 + $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)
