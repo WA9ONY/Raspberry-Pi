@@ -382,5 +382,6 @@ Paul McWhorter [channel](https://www.youtube.com/@paulmcwhorter) has extensive v
   + [SunFounder Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400, Python C Java Scratch Node.js, Detailed Online Tutorials, 161 Projects, 337 Items](https://www.amazon.com/dp/B09BMVT4CB?psc=1&ref=ppx_yo2ov_dt_b_product_details)
     + [SunFounder Ulimate Raphael Kit for Raspberry Pi](https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html)
   + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html#introduction)
+  + [OpenAI](https://openai.com/)
 + Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
   + [Python](https://www.python.org/)
