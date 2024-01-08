@@ -5,7 +5,7 @@
 # Raspberry Pi Computer Project Notes Index
 + Project 1: <A HREF="README.md#P1">Raspberry Pi SBC Models</A>
 + Project 2: <A HREF="README.md#P2">Raspberry Pi Imager</A>
-+ Project 3: <A HREF="README.md#P3">Raspberry Pi Projects</A>
++ Project 3: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
 + Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
 + Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
 + Project 6: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
@@ -73,7 +73,7 @@ The Raspberry Pi Imager is used to program various OSs on a microSD card that ru
 <HR>
 <P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
     
-# Project 3: Raspberry Pi Projects
+# Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
 
 + 50 Cool Raspberry Pi Projects for July 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
 
