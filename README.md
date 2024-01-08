@@ -22,14 +22,16 @@
 # Project 1: Raspberry Pi Models
 
 Prices as of August 12, 2023
-+ $10 Raspberry Pi Zero V1.3
-+ $15 Raspberry Pi Zero W (sometimes available in 2023)
-+ $15 Raspberry Pi Zero 2 W
-+ $35 Raspberry Pi 4 Model B 1 GbRAM (sometimes available in 2023)
-+ $45 Raspberry Pi 4 Model B 2 GbRAM
-+ $55 Raspberry Pi 4 Model B 4 GbRAM (sometimes available in 2023)
-+ $70 Raspberry Pi 4 Model B 8 GbRAM (sometimes available in 2023)
-+ $70 Raspberry Pi 400 4 GbRAM (sometimes available in 2023)
++ $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
++ $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
++ $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)
++ $35 Raspberry Pi 4 Model B 1 Gb RAM [Adafruit](https://www.adafruit.com/product/4295)
++ $45 Raspberry Pi 4 Model B 2 Gb RAM [Adafruit](https://www.adafruit.com/product/4292)
++ $55 Raspberry Pi 4 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/4296)
++ $70 Raspberry Pi 4 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/4564)
++ $70 Raspberry Pi 400 4 GbR RAM  [Adafruit](https://www.adafruit.com/product/4795)
++ $55 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
++ $70 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
 
  
 <A NAME="P2"></A>
