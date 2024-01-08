@@ -282,11 +282,6 @@ if __name__ == "__main__":
     pystone(1000000)
 
 
-
-YouTube
-+ The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
-
-
 <p align="center">
 <img width="682" height="452" src="/Images/pystoneBookworm64.png">  
 </p>
