@@ -384,20 +384,20 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
   + [Raspberry Pi 4](https://www.raspberrypi.com/documentation/computers/raspberry-pi-4.html)
   + [OpenAI](https://openai.com/)
-+ Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences
-  + Taskbar
-    + Install update icon
-    + Add plugins to Taskbar
-      + CPU, CPU Temp & GPU
-        + CPU temp at ~ 80 degrees C will throttle the CPU speed.
-  + Terminal window 
-    + Increase scroll-back lines to 10,000
-    + Zoom in with: Shift+Ctrl++
- + CLI
-   + history - command
-      + !num
-   + Tab - auto complete
-   + apt - advanced package tool
+## Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences
++ Taskbar
++ Install update icon
++ Add plugins to Taskbar
+  + CPU, CPU Temp & GPU
+    + CPU temp at ~ 80 degrees C will throttle the CPU speed.
++ Terminal window 
+  + Increase scroll-back lines to 10,000
+  + Zoom in with: Shift+Ctrl++
++ CLI
+  + history - command
+    + !num
+  + Tab - auto complete
+  + apt - advanced package tool
      + sudo apt update
      + sudo apt upgrade
      + sudo apt install neofetch
