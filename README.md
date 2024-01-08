@@ -418,6 +418,11 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + Add bookmarks menu bar
   + Change search to Google
 
+## Raspberry Pi LESSON 2: Linux Essentials in One Session
+
+The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
+It is located at applications menu, Programming, Thonny
+
 
 <A NAME="P11"></A>
 <HR>
