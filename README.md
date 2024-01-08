@@ -3,7 +3,7 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Raspberry Pi Computer Project Notes Index
-+ Project 1: <A HREF="README.md#P1">Raspberry Pi Models</A>
++ Project 1: <A HREF="README.md#P1">Raspberry Pi SBC Models</A>
 + Project 2: <A HREF="README.md#P2">Raspberry Pi Imager</A>
 + Project 3: <A HREF="README.md#P3">Raspberry Pi Projects</A>
 + Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
@@ -19,7 +19,7 @@
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
     
-# Project 1: Raspberry Pi Models
+# Project 1: Raspberry Pi SBC Models
 
 Prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
