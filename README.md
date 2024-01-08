@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P10">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P11">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Raspberry Pi Computer Project Notes Index
@@ -12,7 +12,8 @@
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
 + Project 8: <A HREF="README.md#P8">Micro text editor</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
-+ Project 10: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Tutorials</A>
++ Project 10: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
++ Project 11: <A HREF="README.md#P11">YouTube Channel: Paul McWhorter Python Tutorials</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -373,9 +374,9 @@ Raspberry Pi Model 5 Cooling
 
 <A NAME="P10"></A>
 <HR>
-<P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P11">--&gt;</A></P>  
     
-# Project 10 YouTube Channel: Paul McWhorter Tutorials
+# Project 10 YouTube Channel: Paul McWhorter Raspberry Pi Tutorials
 
 Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
 + Free Raspberry Pi Tutorials for Absolute Beginners [74 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
@@ -405,8 +406,17 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
      + sudo apt install stacer
   + [Pi-Apps](https://pi-apps.io/)
     + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
-+ Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
-  + [Python](https://www.python.org/)
 + Chromium
   + Add bookmarks menu bar
   + Change search to Google
+
+
+<A NAME="P11"></A>
+<HR>
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 10 YouTube Channel: Paul McWhorter Python Tutorials
+
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
++ Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
+  + [Python](https://www.python.org/)
