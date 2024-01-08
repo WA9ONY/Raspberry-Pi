@@ -75,7 +75,7 @@ The Raspberry Pi Imager is used to program various OSs on a microSD card that ru
     
 # Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
 
-+ 50 Cool Raspberry Pi Projects for July 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
++ 50 Cool Raspberry Pi Projects for Dec. 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
 
 
 <A NAME="P4"></A>
