@@ -30,8 +30,8 @@ Prices as of Jan. 8, 2024
 + $55 Raspberry Pi 4 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/4296)
 + $70 Raspberry Pi 4 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/4564)
 + $70 Raspberry Pi 400 4 GbR RAM  [Adafruit](https://www.adafruit.com/product/4795)
-+ $55 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
-+ $70 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
++ $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
++ $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
 
  
 <A NAME="P2"></A>
