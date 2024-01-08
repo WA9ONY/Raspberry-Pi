@@ -40,6 +40,14 @@ Prices as of Jan. 8, 2024
     
 # Project 2: Raspberry Pi Imager
 
+A microSD card is the most popular method to use the Raspberry Pi computer OS.
++ Download the Raspberry Pi Imager software.
++ Select the Raspberry Pi model.
++ Select the OS
+  + I select the full version with all the apps installed.
++ Insert a microSD card
+  + I use SanDisk High Endurance Card 64 GB [Amazzon](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1)  
+
 The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
 
 <p align="center">
