@@ -378,4 +378,4 @@ Raspberry Pi Model 5 Cooling
 # Project 10 YouTube Channel: Paul McWhorter Tutorials
 
 Paul McWhorter [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorils.
-+ ree Raspberry Pi Tutorials for Absolute Beginners [74 videos playlis](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
++ Free Raspberry Pi Tutorials for Absolute Beginners [74 videos playlis](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
