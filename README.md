@@ -423,6 +423,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
 
+[ChatGPT 4](https://chat.openai.com/share/eaa85864-3818-4115-87df-0fed569f3f62)
 
 <A NAME="P11"></A>
 <HR>
