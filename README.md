@@ -432,7 +432,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 <HR>
 <P align="center"><A HREF="#R1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#R2">--&gt;</A></P>  
     
-# Raspberry Pi LESSON 2: Linux Essentials in One Session
+# Raspberry Pi [LESSON 2](https://youtu.be/8kg3xIifMN4?si=9LhgNdFI9qWE1V-d): Linux Essentials in One Session
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
