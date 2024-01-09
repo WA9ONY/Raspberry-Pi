@@ -13,6 +13,8 @@
 + Project 8: <A HREF="README.md#P8">Micro text editor</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
 + Project 10: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
+  + Lession 1: <A HREF="README.md#L1">Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences</A>
+  + Lession 2: <A HREF="README.md#L2">Raspberry Pi LESSON 2: Linux Essentials in One Session</A>
 + Project 11: <A HREF="README.md#P11">YouTube Channel: Paul McWhorter Python Tutorials</A>
 
 <A NAME="P1"></A>
@@ -393,7 +395,14 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
   + [Raspberry Pi 4](https://www.raspberrypi.com/documentation/computers/raspberry-pi-4.html)
   + [OpenAI](https://openai.com/)
-## Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences
+
+
+<A NAME="L1"></A>
+<HR>
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L2">--&gt;</A></P>  
+    
+# Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences
+
 + Taskbar
 + Install update icon
 + Add plugins to Taskbar
@@ -418,7 +427,12 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + Add bookmarks menu bar
   + Change search to Google
 
-## Raspberry Pi LESSON 2: Linux Essentials in One Session
+
+<A NAME="L2"></A>
+<HR>
+<P align="center"><A HREF="#R1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#R2">--&gt;</A></P>  
+    
+# Raspberry Pi LESSON 2: Linux Essentials in One Session
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
