@@ -426,7 +426,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 + Chromium
   + Add bookmarks menu bar
   + Change search to Google
-+ Raspberry Pi Bookshelf with Free Magazines and Books
++ Raspberry Pi Bookshelf with Free magazines and books
   + Applications menu, Help, Bookshelf
     + Greater than 100 MagPi issues
     + Greater than 35 books
