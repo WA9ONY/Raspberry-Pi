@@ -401,7 +401,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 <HR>
 <P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L2">--&gt;</A></P>  
     
-# Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences
+# Raspberry Pi [LESSON 1](https://youtu.be/1WDagiA8fdU?si=AgeMTY9t2tvZQ9-e): First Boot and Configuring the Desktop, Panel, Menu and Preferences
 
 + Taskbar
 + Install update icon
