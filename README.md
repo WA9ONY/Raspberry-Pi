@@ -3,12 +3,10 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Raspberry Pi Computer Project Notes Index
-+ Project 1: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
++ Project 1: <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
   + Lession 1: <A HREF="README.md#L1">Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences</A>
   + Lession 2: <A HREF="README.md#L2">Raspberry Pi LESSON 2: Linux Essentials in One Session</A>
-+ Project 2: <A HREF="README.md#P11">YouTube Channel: Paul McWhorter Python Tutorials</A>
-+ Project 1: <A HREF="README.md#P1">Raspberry Pi SBC Models</A>
-+ Project 2: <A HREF="README.md#P2">Raspberry Pi Imager</A>
++ Project 2: <A HREF="README.md#P2">YouTube Channel: Paul McWhorter Python Tutorials</A>
 + Project 3: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
 + Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
 + Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
@@ -16,7 +14,6 @@
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
 + Project 8: <A HREF="README.md#P8">Micro text editor</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
-
 
 
 <A NAME="P1"></A>
