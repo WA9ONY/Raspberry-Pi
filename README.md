@@ -50,6 +50,9 @@ Raspberry Pi prices as of Jan. 8, 2024
 + $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
 + $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
 
+Nice to have
++ SanDisk Extreme, Go Portable SSD 1 TB up to 1050 MB/s Read
+
 Raspberry Pi Imager
   
 The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
