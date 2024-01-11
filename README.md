@@ -3,6 +3,10 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Raspberry Pi Computer Project Notes Index
++ Project 1: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
+  + Lession 1: <A HREF="README.md#L1">Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences</A>
+  + Lession 2: <A HREF="README.md#L2">Raspberry Pi LESSON 2: Linux Essentials in One Session</A>
++ Project 2: <A HREF="README.md#P11">YouTube Channel: Paul McWhorter Python Tutorials</A>
 + Project 1: <A HREF="README.md#P1">Raspberry Pi SBC Models</A>
 + Project 2: <A HREF="README.md#P2">Raspberry Pi Imager</A>
 + Project 3: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
@@ -12,18 +16,32 @@
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
 + Project 8: <A HREF="README.md#P8">Micro text editor</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
-+ Project 10: <A HREF="README.md#P10">YouTube Channel: Paul McWhorter Raspberry Pi Tutorials</A>
-  + Lession 1: <A HREF="README.md#L1">Raspberry Pi LESSON 1: First Boot and Configuring the Desktop, Panel, Menu and Preferences</A>
-  + Lession 2: <A HREF="README.md#L2">Raspberry Pi LESSON 2: Linux Essentials in One Session</A>
-+ Project 11: <A HREF="README.md#P11">YouTube Channel: Paul McWhorter Python Tutorials</A>
+
+
 
 <A NAME="P1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
     
-# Project 1: Raspberry Pi SBC Models
+# Project 10 YouTube Channel: Paul McWhorter Raspberry Pi Tutorials
 
-Prices as of Jan. 8, 2024
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
++ Free Raspberry Pi Tutorials for Absolute Beginners [74 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
+  + [SunFounder Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400, Python C Java Scratch Node.js, Detailed Online Tutorials, 161 Projects, 337 Items](https://www.amazon.com/dp/B09BMVT4CB?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+    + [SunFounder Ulimate Raphael Kit for Raspberry Pi](https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html)
+  + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
+  + [Raspberry Pi 4](https://www.raspberrypi.com/documentation/computers/raspberry-pi-4.html)
+  + [OpenAI](https://openai.com/)
+
+
+<A NAME="L1"></A>
+<HR>
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L2">--&gt;</A></P>  
+    
+# Raspberry Pi [LESSON 1](https://youtu.be/1WDagiA8fdU?si=AgeMTY9t2tvZQ9-e): First Boot and Configuring the Desktop, Panel, Menu and Preferences
+
+Raspberry Pi SBC Models
+Raspberry Pi prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
 + $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
 + $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)
@@ -35,12 +53,9 @@ Prices as of Jan. 8, 2024
 + $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
 + $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
 
- 
-<A NAME="P2"></A>
-<HR>
-<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
-    
-# Project 2: Raspberry Pi Imager
+Raspberry Pi Imager
+  
+The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
 
 A microSD card is the most popular method to use the Raspberry Pi computer OS.
 + Download the Raspberry Pi Imager software.
@@ -52,25 +67,88 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 + Choose Storage
 + Configure OS
 + Program and verfy microSD card.
-  
-The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
 
 <p align="center">
 <img width="682" height="452" src="/Images/RPIimagerOS32Lite.png">  
 </p>
 
-
 <p align="center">
 <img width="817" height="817" src="/Images/RPIimagerM.png">  
 </p>
-
 
 <p align="center">
 <img width="811" height="741" src="/Images/RPIimagerMs.png">  
 </p>
 
++ Taskbar
++ Install update icon
++ Add plugins to Taskbar
+  + CPU, CPU Temp & GPU
+    + CPU temp at ~ 80 degrees C will throttle the CPU speed.
++ Terminal window 
+  + Increase scroll-back lines to 10,000
+  + Zoom in with: Shift+Ctrl++
++ CLI
+  + history - command
+    + !num
+  + Tab - auto complete
+  + apt - advanced package tool
+     + sudo apt update
+     + sudo apt upgrade
+     + sudo apt install neofetch
+     + sudo apt install bpytop
+     + sudo apt install stacer
+  + [Pi-Apps](https://pi-apps.io/)
+    + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
++ Chromium
+  + Add bookmarks menu bar
+  + Change search to Google
++ Raspberry Pi Bookshelf with Free magazines and books
+  + Applications menu, Help, Bookshelf
+    + Greater than 100 MagPi issues
+    + Greater than 35 books
+      + Raspberry Pi Beginner's Guide 4th Edition
+      + The Official Raspberry Pi Handbook 2023
+    + Greater than 70 JaclSpace issues  
+
+<A NAME="L2"></A>
+<HR>
+<P align="center"><A HREF="#R1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#R2">--&gt;</A></P>  
+    
+<A NAME="P11"></A>
+<HR>
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 11 YouTube Channel: Paul McWhorter Python Tutorials
+
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
++ Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
+  + [Python](https://www.python.org/)
+
+# Raspberry Pi [LESSON 2](https://youtu.be/8kg3xIifMN4?si=9LhgNdFI9qWE1V-d): Linux Essentials in One Session
+
+The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
+It is located at applications menu, Programming, Thonny
+
+OpenAI [ChatGPT 4](https://chat.openai.com/share/eaa85864-3818-4115-87df-0fed569f3f62) is used to help learn Python by creating example Python programs.
+
+<A NAME="P1"></A>
+<HR>
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
 
 
+
+<A NAME="P2"></A>
+<HR>
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
+    
+# Project 2 YouTube Channel: Paul McWhorter Python Tutorials
+
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
++ Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
+  + [Python](https://www.python.org/)
+
+    
 <A NAME="P3"></A>
 <HR>
 <P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
@@ -330,58 +408,7 @@ Trigger Modules and Cable
   + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
 + AllExpress
   + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD Trigger Module search</A>
-  + <A HREF="https://www.aliexpress.us/w/wholesale-USB-C-PD-Trigger-Cable.html?spm=a2g0o.productlist.search.0">USB C PD Trigger Cable search</A>
-+ Amazon
-  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Power+Trigger+Module&i=electronics&crid=YQZTFIWT0LE5&sprefix=usb-c+pd+power+trigger+module%2Celectronics%2C146&ref=nb_sb_noss">USB-C PD Power Trigger Module search</A>
-  + (5 Pack) JacobsParts USB-C PD 12V DC Fixed Voltage Power Trigger Module 5A Type-C Female Input  <A HREF="https://www.amazon.com/JacobsParts-Voltage-Trigger-Module-Type-C/dp/B08NFKV2LD/ref=pd_rhf_se_s_pd_sbs_rvi_sccl_2_1/132-2501716-5057064?pd_rd_w=59WjG&content-id=amzn1.sym.a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_p=a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_r=WGD46K1C12K42V117N77&pd_rd_wg=Trhpz&pd_rd_r=22bfe6ae-e490-486e-84da-fbbfe76a6677&pd_rd_i=B08NFKV2LD&th=1">Amazon</A>
-  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Trigger+Cable&i=electronics&crid=3KIT2RQ79MAB5&sprefix=usb-c+pd+trigger+cable%2Celectronics%2C153&ref=nb_sb_noss_1">USB-C PD Power Trigger Cable search</A>
-
-USB-C PD Chargers
-+ Amazon
-  + <A HREF="https://www.amazon.com/UGREEN-Charger-Nexode-Compatible-MacBook/dp/B0B129DM9T/ref=sr_1_18?crid=26O4H7FBSGJO9&keywords=USB-C+PD+Chargers+UGREEN&qid=1701450258&s=electronics&sprefix=usb-c+pd+chargers+ugreen%2Celectronics%2C154&sr=1-18">UGREEN 140W USB C Charger</A>
-    + USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 28V/5A 140W Max PPS: 3.3-21V/5A;
-    + USB-C2: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 100W Max PPS: 3.3-21V/5A;
-    + USB-A: 4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max
-
-<A HREF="https://goughlui.com/2021/08/31/quick-review-yzx-studio-zy12pdn-usb-c-pd-decoy-board/">Quick Review:</A> YZX Studio ZY12PDN USB-C PD Decoy Board
-
-
-
-Raspberry Pi Model 5
-Raspberry Pi Model 5 Power Supply
-Raspberry Pi Model 5 Device Tree Blod
-
-https://en.wikipedia.org/wiki/Devicetree
-https://www.devicetree.org/
-
-YouTube
-Tutorial: Device Tree (DTS), Linux Board Bring-up and Kernel Version Changing
-https://youtu.be/N6IW7JJQASc?si=cw0jb5OyDysfZGDu
-
-Device Tree: hardware description for everybody !
-https://youtu.be/Nz6aBffv-Ek?si=tPxAgwwjjWRGbfAY
-
-Device Tree 101
-https://www.youtube.com/live/a9CZ1Uk3OYQ?si=qGgvVU-XMRRWHA4j
-
-
-
-PDFs
-Device Tree for Dummies 47 pages
-https://elinux.org/images/f/f9/Petazzoni-device-tree-dummies_0.pdf
-
-
-A device tree is a data structure and language for describing hardware. It is a description of hardware that is readable by an operating system so that the operating system doesn't need to hard code details of the machine. 
-
-The directory for DTS files is arch/[arch]/boot/dts/ within the kernel source tree. This is where the device tree compilation takes place and where the dtc looks for particular .dtsi files included in the .dts. DTS files are saved as XML files.DTS files are saved as XML files.
-
-A .dtsi file is a device tree source include file. The "i" in dtsi stands for "include". 
-The Device Tree Compiler (DTC) is used to compile the source into a binary form. The inclusion works by overlaying the tree of the including file over the tree of the included file, producing a combined compiled binary. 
-DTS files are a textual representation of a devicetree in a form that can be processed by dtc into a binary devicetree in the form expected by the kernel.
-
-Raspberry Pi Model 5 Cooling
-
-
+  + <A HREF="https://www.aliexpress.us/w/wholesale-USB-C-PD-Trigger-Cable.html?spm=a2g0
 <A NAME="P10"></A>
 <HR>
 <P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P11">--&gt;</A></P>  
@@ -444,13 +471,54 @@ The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](ht
 It is located at applications menu, Programming, Thonny
 
 OpenAI [ChatGPT 4](https://chat.openai.com/share/eaa85864-3818-4115-87df-0fed569f3f62) is used to help learn Python by creating example Python programs.
+o.productlist.search.0">USB C PD Trigger Cable search</A>
++ Amazon
+  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Power+Trigger+Module&i=electronics&crid=YQZTFIWT0LE5&sprefix=usb-c+pd+power+trigger+module%2Celectronics%2C146&ref=nb_sb_noss">USB-C PD Power Trigger Module search</A>
+  + (5 Pack) JacobsParts USB-C PD 12V DC Fixed Voltage Power Trigger Module 5A Type-C Female Input  <A HREF="https://www.amazon.com/JacobsParts-Voltage-Trigger-Module-Type-C/dp/B08NFKV2LD/ref=pd_rhf_se_s_pd_sbs_rvi_sccl_2_1/132-2501716-5057064?pd_rd_w=59WjG&content-id=amzn1.sym.a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_p=a089f039-4dde-401a-9041-8b534ae99e65&pf_rd_r=WGD46K1C12K42V117N77&pd_rd_wg=Trhpz&pd_rd_r=22bfe6ae-e490-486e-84da-fbbfe76a6677&pd_rd_i=B08NFKV2LD&th=1">Amazon</A>
+  + <A HREF="https://www.amazon.com/s?k=USB-C+PD+Trigger+Cable&i=electronics&crid=3KIT2RQ79MAB5&sprefix=usb-c+pd+trigger+cable%2Celectronics%2C153&ref=nb_sb_noss_1">USB-C PD Power Trigger Cable search</A>
 
-<A NAME="P11"></A>
-<HR>
-<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
-    
-# Project 11 YouTube Channel: Paul McWhorter Python Tutorials
+USB-C PD Chargers
++ Amazon
+  + <A HREF="https://www.amazon.com/UGREEN-Charger-Nexode-Compatible-MacBook/dp/B0B129DM9T/ref=sr_1_18?crid=26O4H7FBSGJO9&keywords=USB-C+PD+Chargers+UGREEN&qid=1701450258&s=electronics&sprefix=usb-c+pd+chargers+ugreen%2Celectronics%2C154&sr=1-18">UGREEN 140W USB C Charger</A>
+    + USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 28V/5A 140W Max PPS: 3.3-21V/5A;
+    + USB-C2: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 100W Max PPS: 3.3-21V/5A;
+    + USB-A: 4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max
 
-Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
-+ Learn Python for Beginners [110 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYzguDvh5xk2XoX9V1VKP5Hv)
-  + [Python](https://www.python.org/)
+<A HREF="https://goughlui.com/2021/08/31/quick-review-yzx-studio-zy12pdn-usb-c-pd-decoy-board/">Quick Review:</A> YZX Studio ZY12PDN USB-C PD Decoy Board
+
+
+
+Raspberry Pi Model 5
+Raspberry Pi Model 5 Power Supply
+Raspberry Pi Model 5 Device Tree Blod
+
+https://en.wikipedia.org/wiki/Devicetree
+https://www.devicetree.org/
+
+YouTube
+Tutorial: Device Tree (DTS), Linux Board Bring-up and Kernel Version Changing
+https://youtu.be/N6IW7JJQASc?si=cw0jb5OyDysfZGDu
+
+Device Tree: hardware description for everybody !
+https://youtu.be/Nz6aBffv-Ek?si=tPxAgwwjjWRGbfAY
+
+Device Tree 101
+https://www.youtube.com/live/a9CZ1Uk3OYQ?si=qGgvVU-XMRRWHA4j
+
+
+
+PDFs
+Device Tree for Dummies 47 pages
+https://elinux.org/images/f/f9/Petazzoni-device-tree-dummies_0.pdf
+
+
+A device tree is a data structure and language for describing hardware. It is a description of hardware that is readable by an operating system so that the operating system doesn't need to hard code details of the machine. 
+
+The directory for DTS files is arch/[arch]/boot/dts/ within the kernel source tree. This is where the device tree compilation takes place and where the dtc looks for particular .dtsi files included in the .dts. DTS files are saved as XML files.DTS files are saved as XML files.
+
+A .dtsi file is a device tree source include file. The "i" in dtsi stands for "include". 
+The Device Tree Compiler (DTC) is used to compile the source into a binary form. The inclusion works by overlaying the tree of the including file over the tree of the included file, producing a combined compiled binary. 
+DTS files are a textual representation of a devicetree in a form that can be processed by dtc into a binary devicetree in the form expected by the kernel.
+
+Raspberry Pi Model 5 Cooling
+
