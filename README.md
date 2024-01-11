@@ -23,7 +23,7 @@
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
     
-# Project 10 YouTube Channel: Paul McWhorter Raspberry Pi Tutorials
+# Project 1 YouTube Channel: Paul McWhorter Raspberry Pi Tutorials
 
 Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
 + Free Raspberry Pi Tutorials for Absolute Beginners [74 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
