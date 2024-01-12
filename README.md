@@ -110,7 +110,9 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
       + Raspberry Pi Beginner's Guide 4th Edition
       + The Official Raspberry Pi Handbook 2023
     + Greater than 70 JaclSpace issues  
+
 [The Official Raspberry Pi Beginner’s Guide, 5th Edition](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e)
+
 
 <A NAME="L2"></A>
 <HR>
