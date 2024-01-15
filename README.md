@@ -99,6 +99,9 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 </p>
 
 
++ Add plugins to Taskbar
+  + CPU, CPU Temp & GPU
+    + CPU temp at ~ 80 degrees C will throttle the CPU speed.
 
 <p align="center">
 <img width="390" height="36" src="/Images/cpu.png">  
@@ -106,24 +109,6 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 
 
 + Install update icon
-+ Add plugins to Taskbar
-  + CPU, CPU Temp & GPU
-    + CPU temp at ~ 80 degrees C will throttle the CPU speed.
-+ Terminal window 
-  + Increase scroll-back lines to 10,000
-  + Zoom in with: Shift+Ctrl++
-+ CLI
-  + history - command
-    + !num
-  + Tab - auto complete
-  + apt - advanced package toolR2
-     + sudo apt update
-     + sudo apt upgrade
-     + sudo apt install neofetch
-     + sudo apt install bpytop
-     + sudo apt install stacer
-  + [Pi-Apps](https://pi-apps.io/)
-    + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 + Chromium
   + Add bookmarks menu bar
   + Change search to Google
@@ -144,6 +129,22 @@ Resources
 <P align="center"><A HREF="#L1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L3">--&gt;</A></P>  
     
 # Raspberry Pi [LESSON 2](https://youtu.be/8kg3xIifMN4?si=9LhgNdFI9qWE1V-d): Linux Essentials in One Session
+
++ Terminal window 
+  + Increase scroll-back lines to 10,000
+  + Zoom in with: Shift+Ctrl++
++ CLI
+  + history - command
+    + !num
+  + Tab - auto complete
+  + apt - advanced package toolR2
+     + sudo apt update
+     + sudo apt upgrade
+     + sudo apt install neofetch
+     + sudo apt install bpytop
+     + sudo apt install stacer
+  + [Pi-Apps](https://pi-apps.io/)
+    + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
