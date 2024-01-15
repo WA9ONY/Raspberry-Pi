@@ -89,15 +89,7 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 + Program and verfy microSD card.
 
 <p align="center">
-<img width="682" height="452" src="/Images/RPIimagerOS32Lite.png">  
-</p>
-
-<p align="center">
-<img width="817" height="817" src="/Images/RPIimagerM.png">  
-</p>
-
-<p align="center">
-<img width="811" height="741" src="/Images/RPIimagerMs.png">  
+<img width="690" height="493" src="/Images/imager183.png">  
 </p>
 
 + Taskbar
