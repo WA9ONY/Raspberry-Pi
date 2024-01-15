@@ -42,7 +42,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
 The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping up to [90,000 a week in February](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february) 2024. These notes and related YouTube videos will be focused on suplemential informantion beyond what Paul McWhorter has covered in his excellent tutorials.
 
-Raspberry Pi SBC Models
+## Raspberry Pi SBC Models
 Raspberry Pi prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
 + $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
@@ -55,7 +55,7 @@ Raspberry Pi prices as of Jan. 8, 2024
 + $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812) Recommended for GUI OS.
 + $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
 
-Require
+Require items:
 + Raspberry Pi Model 5 4 GB or 8 GB
 + Active cooling or case with active cooling.
 + Offical Raspberry Pi 27 watt 5.1 Vole 5 Ampere power supply
@@ -65,11 +65,12 @@ Require
 + Internet
 + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon $9.99](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 
-Nice to have
+Nice to have items:
 + SanDisk Extreme, Go Portable SSD 1 TB up to 1050 MB/s Read Costco on sale for $65.
 + AC power switch [Amazon](https://www.amazon.com/gp/product/B07RBPRG1R/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1)
 
-Raspberry Pi Imager
+Raspberry Pi Imager is used to install the Raspberry Pi OS on the microSD card.
+Before burning a microSD card always download the latest Raspberry Pi Imager.
   
 The Raspberry Pi Imager is used to program various OSs on a microSD card that runs the software on a Raspberry Pi.
 
