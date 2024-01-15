@@ -95,7 +95,7 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 ## Pi-Apps
 + [Pi-Apps](https://pi-apps.io/)
   + In CLI
-    + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+    + <PRE>wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash/<PRE></PRE>
   + Install GIMP: GNU Image Manipulation Program
 
 ## Taskbar
