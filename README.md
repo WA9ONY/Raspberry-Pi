@@ -55,19 +55,22 @@ Raspberry Pi prices as of Jan. 8, 2024
 + $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812) Recommended for GUI OS.
 + $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
 
+## Building a Raspberry Pi Model 5 Computer
 Require items:
 + Raspberry Pi Model 5 4 GB or 8 GB
 + Active cooling or case with active cooling.
 + Offical Raspberry Pi 27 watt 5.1 Vole 5 Ampere power supply
 + USB keyboark with PrtScr button
 + USB mouse
-+ HDMI 1080 monitor with sound
++ HDMI 1080 monitor with sound, HDMI cable
 + Internet
 + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon $9.99](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 
 Nice to have items:
 + SanDisk Extreme, Go Portable SSD 1 TB up to 1050 MB/s Read Costco on sale for $65.
 + AC power switch [Amazon](https://www.amazon.com/gp/product/B07RBPRG1R/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1)
+
+## Programming the microSD Card
 
 Raspberry Pi Imager is used to install the Raspberry Pi OS on the microSD card.
 Before burning a microSD card always download the latest Raspberry Pi Imager.
