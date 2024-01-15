@@ -39,21 +39,35 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
     
 # Raspberry Pi [LESSON 1](https://youtu.be/1WDagiA8fdU?si=AgeMTY9t2tvZQ9-e): First Boot and Configuring the Desktop, Panel, Menu and Preferences
 
+This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
+The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping up to [90,000 a week in February](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february) 2024. These notes and related YouTube videos will be focused on suplemential informantion beyond what Paul McWhorter has covered in his excellent tutorials.
+
 Raspberry Pi SBC Models
 Raspberry Pi prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
 + $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
 + $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)Raspberry Pi LESSON 3: Python Essentials in One Session
-+ $35 Raspberry Pi 4 Model B 1 Gb RAM [Adafruit](https://www.adafruit.com/product/4295)
-+ $45 Raspberry Pi 4 Model B 2 Gb RAM [Adafruit](https://www.adafruit.com/product/4292)
-+ $55 Raspberry Pi 4 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/4296)
-+ $70 Raspberry Pi 4 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/4564)
-+ $70 Raspberry Pi 400 4 GbR RAM  [Adafruit](https://www.adafruit.com/product/4795)
-+ $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812)
-+ $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813)
++ $35 Raspberry Pi 4 Model B 1 Gb RAM [Adafruit](https://www.adafruit.com/product/4295) Recommended for CLI OS.
++ $45 Raspberry Pi 4 Model B 2 Gb RAM [Adafruit](https://www.adafruit.com/product/4292) Recommended for CLI OS.
++ $55 Raspberry Pi 4 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/4296) Recommended for GUI OS.
++ $70 Raspberry Pi 4 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/4564) Recommended for GUI OS.
++ $70 Raspberry Pi 400 4 GbR RAM  [Adafruit](https://www.adafruit.com/product/4795) Recommended for GUI OS.
++ $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812) Recommended for GUI OS.
++ $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
+
+Require
++ Raspberry Pi Model 5 4 GB or 8 GB
++ Active cooling or case with active cooling.
++ Offical Raspberry Pi 27 watt 5.1 Vole 5 Ampere power supply
++ USB keyboark with PrtScr button
++ USB mouse
++ HDMI 1080 monitor with sound
++ Internet
++ SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon $9.99](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 
 Nice to have
-+ SanDisk Extreme, Go Portable SSD 1 TB up to 1050 MB/s Read
++ SanDisk Extreme, Go Portable SSD 1 TB up to 1050 MB/s Read Costco on sale for $65.
++ AC power switch [Amazon](https://www.amazon.com/gp/product/B07RBPRG1R/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&th=1)
 
 Raspberry Pi Imager
   
