@@ -113,8 +113,9 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
       + The Official Raspberry Pi Handbook 2023
     + Greater than 70 JaclSpace issues  
 
-[The Official Raspberry Pi Beginner’s Guide, 5th Edition](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e)
-
+Resources
++ [The Official Raspberry Pi Beginner’s Guide, 5th Edition](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e)
++ [Tom's Hardware Raspberry Pi](https://www.tomshardware.com/raspberry-pi)
 
 <A NAME="L2"></A>
 <HR>
@@ -124,7 +125,7 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
-
+R2
 OpenAI [ChatGPT 4](https://chat.openai.com/share/eaa85864-3818-4115-87df-0fed569f3f62) is used to help learn Python by creating example Python programs.
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
@@ -188,7 +189,7 @@ Raspberry Pi Model 5 Cooling
 <P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L4">--&gt;</A></P>  
     
 # Raspberry Pi [LESSON 3](https://youtu.be/Wabv5e0KQaU?si=yIpxu5xF8A6kgbFZ): Raspberry Pi LESSON 3: Python Essentials in One Session
-R2
+
 
 
 <A NAME="L4"></A>
