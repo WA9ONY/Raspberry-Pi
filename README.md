@@ -92,7 +92,19 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 <img width="690" height="493" src="/Images/imager183.png">  
 </p>
 
-+ Taskbar
+## Taskbar
+
+<p align="center">
+<img width="288" height="42" src="/Images/launch.png">  
+</p>
+
+
+
+<p align="center">
+<img width="390" height="36" src="/Images/cpu.png">  
+</p>
+
+
 + Install update icon
 + Add plugins to Taskbar
   + CPU, CPU Temp & GPU
