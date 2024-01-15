@@ -232,7 +232,12 @@ Raspberry Pi Model 5 Cooling
     
 # Raspberry Pi [LESSON 3](https://youtu.be/Wabv5e0KQaU?si=yIpxu5xF8A6kgbFZ): Raspberry Pi LESSON 3: Python Essentials in One Session
 
-
+## Thone
+Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
++ Upper right corner, select Switch to regular mode, restart Thony.
++ Enter
+  + print('Hello')
+  + Click on the green run arrow to run the Python program.
 
 <A NAME="L4"></A>
 <HR>
