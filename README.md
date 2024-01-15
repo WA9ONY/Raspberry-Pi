@@ -45,6 +45,12 @@ The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping u
 ## Raspberry Pi SBC Models
 Raspberry Pi prices as of Jan. 8, 2024
 + $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
+  + Ethernet Hub and USB Hub w/ Micro USB OTG Connector [Adafruit](https://www.adafruit.com/product/2992)
+  + Mini HDMI to HDMI Cable - 5 feet [Adafruit](https://www.adafruit.com/product/2775)
+  + Break-away 0.1" 2x20-pin Strip Dual Male Header [Adafruit](https://www.adafruit.com/product/2822)
+  + Pi Foundation Raspberry Pi Zero Case + Mini Camera Cable [Adafruit](https://www.adafruit.com/product/3446)
+  + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon $9.99](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
+  + 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable [Adafruit](https://www.adafruit.com/product/1995)
 + $15 Raspberry Pi Zero W [Adafruit](https://www.adafruit.com/product/3400)
 + $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)Raspberry Pi LESSON 3: Python Essentials in One Session
 + $35 Raspberry Pi 4 Model B 1 Gb RAM [Adafruit](https://www.adafruit.com/product/4295) Recommended for CLI OS.
