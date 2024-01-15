@@ -459,9 +459,4 @@ Trigger Modules and Cable
 + Adafruit USB Type C Power Delivery Dummy Breakout - I2C or Fixed - <A HREF="https://www.adafruit.com/product/5807">HUSB238</A>
   + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
 + AllExpress
-  + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD Trigger Module search</A>
-  + <A HREF="https://www.aliexpress.us/w/wholesale-USB-C-PD-Trigger-Cable.html?spm=a2g0
-<A NAME="P10"></A>
-<HR>
-<P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P11">--&gt;</A></P>  
-    
+  + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD     
