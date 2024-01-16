@@ -161,11 +161,10 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
   + apt - advanced package toolR2
      + sudo apt update
      + sudo apt upgrade
+     + reboot
      + sudo apt install neofetch
      + sudo apt install bpytop
      + sudo apt install stacer
-  + [Pi-Apps](https://pi-apps.io/)
-    + wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
