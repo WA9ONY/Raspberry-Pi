@@ -124,10 +124,12 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 
 ## Screen Capture
 + Keyboard PrtScn
-+ Image is in Pictures directory
++ Image is in the Home or Pictures directory.
 
 ## Chromium
   + Add bookmarks menu bar
+    + Raspberry Pi
+    + https://www.qrz.com/db/wa9ony
   + Change search to Google
 
 ## Resources
