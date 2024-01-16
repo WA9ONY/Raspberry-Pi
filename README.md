@@ -42,23 +42,28 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
 The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping up to [90,000 a week in February](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february) 2024. These notes and related YouTube videos will be focused on suplemential informantion beyond what Paul McWhorter has covered in his excellent tutorials.
 
-## Raspberry Pi SBC Models
+## Raspberry Pi SBC Models (* models are used for these tutorials.)
 Raspberry Pi prices as of Jan. 8, 2024
-+ 2015 $10 Raspberry Pi Zero V1.3 [Adafruit](https://www.adafruit.com/product/2885)
++ *2015 $10 Raspberry Pi Zero V1.3, 500 MB, 1 GHz 1 core [Adafruit](https://www.adafruit.com/product/2885)
+  + Bullseye 32 bit OS
   + Ethernet Hub and USB Hub w/ Micro USB OTG Connector [Adafruit](https://www.adafruit.com/product/2992)
   + Mini HDMI to HDMI Cable - 5 feet [Adafruit](https://www.adafruit.com/product/2775)
   + Break-away 0.1" 2x20-pin Strip Dual Male Header [Adafruit](https://www.adafruit.com/product/2822)
   + Pi Foundation Raspberry Pi Zero Case + Mini Camera Cable [Adafruit](https://www.adafruit.com/product/3446)
   + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
   + 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable [Adafruit](https://www.adafruit.com/product/1995)
-+ 2021 $15 Raspberry Pi Zero 2 W [Adafruit](https://www.adafruit.com/product/5291)
-+ 2019 $35 Raspberry Pi 4 Model B 1 Gb RAM [Adafruit](https://www.adafruit.com/product/4295) Recommended for CLI OS.
-+ 2019 $45 Raspberry Pi 4 Model B 2 Gb RAM [Adafruit](https://www.adafruit.com/product/4292) Recommended for CLI OS.
-+ 2019 $55 Raspberry Pi 4 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/4296) Recommended for GUI OS.
-+ 2020 $70 Raspberry Pi 4 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/4564) Recommended for GUI OS.
-+ 2020 $70 Raspberry Pi 400 4 GbR RAM  [Adafruit](https://www.adafruit.com/product/4795) Recommended for GUI OS.
-+ 2023 $60 Raspberry Pi 5 Model B 4 Gb RAM [Adafruit](https://www.adafruit.com/product/5812) Recommended for GUI OS.
-+ 2023 $80 Raspberry Pi 5 Model B 8 Gb RAM [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
++ *2021 $15 Raspberry Pi Zero 2 W 1 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/5291)
+  + Bullseye 32 bit OS
++ *2019 $35 Raspberry Pi 4 Model B 1 Gb RAM 1.8 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/4295) 
+  + Bookworm 32 bit OS
++ 2019 $45 Raspberry Pi 4 Model B 2 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4292) 
++ 2019 $55 Raspberry Pi 4 Model B 4 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4296) 
++ *2020 $70 Raspberry Pi 4 Model B 8 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4564) 
+  + Bookworm 32 bit OS
++ 2020 $70 Raspberry Pi 400 4 GbR RAM, 4 cores  [Adafruit](https://www.adafruit.com/product/4795) 
++ 2023 $60 Raspberry Pi 5 Model B 4 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/5812) 
++ *2023 $80 Raspberry Pi 5 Model B 8 Gb RAM 2.4 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
+  + Bookworm 64 bit OS
 
 ## Building a Raspberry Pi Model 5 Computer
 Require items:
@@ -67,7 +72,13 @@ Require items:
 + Offical Raspberry Pi 27 watt 5.1 Vole 5 Ampere power supply
 + USB keyboark with PrtScr button
 + USB mouse
-+ HDMI 1080 monitor with sound, HDMI cable
++ HDMI 1080 monitor with sound, H     + sudo apt install neofetch
+     + sudo apt install bpytop
+     + sudo apt install stacer
+     + sudo apt install neofetch
+     + sudo apt install bpytop
+     + sudo apt install stacer
+DMI cable
 + Internet
 + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
 
@@ -162,9 +173,12 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
      + sudo apt update
      + sudo apt upgrade
      + reboot
+
+## Linux System Monitoring
      + sudo apt install neofetch
      + sudo apt install bpytop
      + sudo apt install stacer
+
 
 The Raspberry Pi has [Thonny](https://en.wikipedia.org/wiki/Thonny) ([Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) installed.
 It is located at applications menu, Programming, Thonny
