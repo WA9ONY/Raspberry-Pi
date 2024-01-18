@@ -280,7 +280,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
     <tr>
         <td>Raspberry Pi 0</td>
-        <td>Single-core ARM1176JZF-S<BR>32-bit SoC</td>
+        <td>Single-core <A HREF="https://en.wikipedia.org/wiki/ARM11">ARM1176JZF-S</A> <BR>32-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
         <td>$10</td>
@@ -288,7 +288,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
     <tr>
         <td>Raspberry Pi 0 2W</td>
-        <td>Quad-core Cortex-A53 (ARMv8-A) 64-bit SoC</td>
+        <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A53">Cortex-A53</A>  (ARMv8-A) 64-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
         <td>$15</td>
@@ -296,7 +296,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
     <tr>
         <td>Raspberry Pi 4</td>
-        <td>Quad-core Cortex-A72 (ARM v8-A) 64-bit SoC</td>
+        <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A>  (ARM v8-A) 64-bit SoC</td>
         <td>1.5 GHz</td>
         <td>1 GB/4 GB/8 GB (varies)</td>
         <td>$35</td>
@@ -312,10 +312,10 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
     <tr>
         <td>Raspberry Pi 5</td>
-        <td>Quad-core Cortex-A76 (ARM v8.2A) 64-bit SoC</td>
+        <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A76">Cortex-A76</A>  (ARM v8.2A) 64-bit SoC</td>
         <td>2.4 GHz</td>
         <td>8 GB</td>
-        <td>$80</td>
+        <td><A HREF="https://www.adafruit.com/product/5813">$80</A></td>
         <td>Raspberry Pi OS Full, 64-bits, Debian Bookworm</td>
     </tr>
 </table>
