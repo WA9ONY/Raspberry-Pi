@@ -326,18 +326,36 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
 </table>
 
+## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 0
+
+<p align="center">
+<img width="656" height="421" src="/Images/rpi0m512m32bitBullseye.png">  
+</p>
+    
+## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 0 2W
+
+<p align="center">
+<img width="656" height="425" src="/Images/rpi02wm1g32bitBullseyem.png">  
+</p>
+    
 ## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 4 with 1 GB
 
 <p align="center">
 <img width="657" height="441" src="/Images/rpi4m1g32bitBookworm.png">  
 </p>
     
-
 ## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 4 with 8 GB
 
 <p align="center">
 <img width="656" height="441" src="/Images/rpi4m8g32bitBookworm.png">  
 </p>
+    
+## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 5 with 8 GB
+
+<p align="center">
+<img width="6592" height="407" src="/Images/rpi5m8g64bitBookworm.png">  
+</p>
+    
     
 <A NAME="P3"></A>
 <HR>
