@@ -302,7 +302,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>2019</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A><BR>(ARM v8-A) 64-bit SoC</td>
         <td>1.5 GHz</td>
-        <td>1 GB/4 GB/8 GB (varies)</td>
+        <td>1 GB</td>
         <td><A HREF="https://www.adafruit.com/product/4295">$35</A></td>
         <td> </td>
     </tr>
