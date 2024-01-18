@@ -280,7 +280,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
     <tr>
         <td>Raspberry Pi 0</td>
-        <td>Single-core ARM1176JZF-S 32-bit SoC</td>
+        <td>Single-core ARM1176JZF-S<BR>32-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
         <td>$10</td>
