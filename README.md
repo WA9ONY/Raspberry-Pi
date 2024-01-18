@@ -277,7 +277,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <th>CPU Speed</th>
         <th>Memory</th>
         <th>Price</th>
-        <th>OS Used</th>
+        <th>OS Installed</th>
     </tr>
     <tr>
         <td>0</td>
