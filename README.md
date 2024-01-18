@@ -286,7 +286,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>1 GHz</td>
         <td>512 MB</td>
         <td><A HREF="https://www.adafruit.com/product/2885">$10</A></td>
-        <td>Raspberry Pi OS Legacy, 32-bits, Debian Bullseye</td>
+        <td>Raspberry Pi OS Legacy, 32-bits, A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Debian Bullseye</A></td>
     </tr>
     <tr>
         <td>Raspberry Pi 0 2W</td>
