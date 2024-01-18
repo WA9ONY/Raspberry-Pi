@@ -267,9 +267,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     
 # Project 3: Raspberry Pi Models used for tutorials
 
-<!DOCTYPE html>
-<html>
-<head>
+
     <title>Raspberry Pi Comparison Table</title>
     <style>
         table, th, td {
@@ -284,10 +282,8 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
             background-color: #f2f2f2;
         }
     </style>
-</head>
-<body>
 
-<h2>Raspberry Pi Models Comparison</h2>
+## Raspberry Pi Models used in video labs.
 
 <table>
     <tr>
@@ -296,32 +292,50 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <th>CPU Speed</th>
         <th>Memory</th>
         <th>Price</th>
+        <th>OS Used</th>
     </tr>
     <tr>
         <td>Raspberry Pi 0</td>
         <td>Single-core ARM1176JZF-S</td>
         <td>1 GHz</td>
         <td>512 MB</td>
-        <td>Approx. $5</td>
+        <td>$10</td>
+        <td>Raspberry Pi OS Legacy, 32-bits, Debian Bullseye</td>
     </tr>
     <tr>
         <td>Raspberry Pi 0 2W</td>
         <td>Quad-core Cortex-A53 (ARMv8)</td>
         <td>1 GHz</td>
         <td>512 MB</td>
-        <td>Approx. $15</td>
+        <td>$15</td>
+        <td>Raspberry Pi OS Legacy, 32-bits, Debian Bullseye</td>
     </tr>
     <tr>
         <td>Raspberry Pi 4</td>
         <td>Quad-core Cortex-A72 (ARM v8) 64-bit SoC</td>
         <td>1.5 GHz</td>
-        <td>2 GB/4 GB/8 GB (varies)</td>
-        <td>Starts at approx. $35</td>
+        <td>1 GB/4 GB/8 GB (varies)</td>
+        <td>$35</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Raspberry Pi 4</td>
+        <td>Quad-core Cortex-A72 (ARM v8) 64-bit SoC</td>
+        <td>1.5 GHz</td>
+        <td>8 GB</td>
+        <td>$75</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Raspberry Pi 5</td>
+        <td>Quad-core Cortex-A72 (ARM v8) 64-bit SoC</td>
+        <td>2.4 GHz</td>
+        <td>8 GB</td>
+        <td>$85</td>
+        <td>Raspberry Pi OS Full, 64-bits, Debian Bookworm</td>
     </tr>
 </table>
 
-</body>
-</html>
 
     
 <A NAME="P3"></A>
