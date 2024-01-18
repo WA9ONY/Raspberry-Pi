@@ -225,7 +225,7 @@ https://www.youtube.com/live/a9CZ1Uk3OYQ?si=qGgvVU-XMRRWHA4j
 
 
 
-PDFs
+PDFsls used in video labs
 Device Tree for Dummies 47 pages
 https://elinux.org/images/f/f9/Petazzoni-device-tree-dummies_0.pdf
 
@@ -313,8 +313,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>1.5 GHz</td>
         <td>8 GB</td>
         <td><A HREF="https://www.adafruit.com/product/4564">$75</A></td>
-        <td> </td>
-    </tr>
+        <td>Raspberry Pi OS Full, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>    </tr>
     <tr>
         <td>5</td>
         <td>2023</td>
@@ -326,7 +325,11 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     </tr>
 </table>
 
+## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Model 4 with 8 GB
 
+<p align="center">
+<img width="656" height="441" src="/Images/rpi48gewbitBookworm.png">  
+</p>
     
 <A NAME="P3"></A>
 <HR>
