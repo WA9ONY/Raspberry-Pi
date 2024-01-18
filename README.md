@@ -8,7 +8,7 @@
   + Lession 2: <A HREF="README.md#L2">Raspberry Pi LESSON 2: Linux Essentials in One Session</A>
   + Lession 3: <A HREF="README.md#L3">Raspberry Pi LESSON 3: Python Essentials in One Session</A>
   + Lession 4: <A HREF="README.md#L4">Raspberry Pi LESSON 4: Understanding and Using GPIO Pins</A>
-+ Project 2: <A HREF="README.md#P2">YouTube Channel: Paul McWhorter Python Tutorials</A>
++ Project 2: <A HREF="README.md#P2">Raspberry Pi Models used for tutorials</A>
 + Project 3: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
 + Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
 + Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
@@ -250,7 +250,7 @@ Raspberry Pi Model 5 Cooling
 ## Thone
 Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
 + Upper right corner, select Switch to regular mode, restart Thony.
-+ Enter
++ EnterRaspberry Pi Models used for tutorials
   + print('Hello')
   + Click on the green run arrow to run the Python program.
 
@@ -260,12 +260,73 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
     
 # Raspberry Pi [LESSON 4](https://youtu.be/az90qK3jmDo?si=m2k4nOg8ham_x1cQ): Raspberry Pi LESSON 4 : Understanding and Using GPIO Pins
 
+    
+<A NAME="P2"></A>
+<HR>
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
+    
+# Project 3: Raspberry Pi Models used for tutorials
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Raspberry Pi Comparison Table</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Raspberry Pi Models Comparison</h2>
+
+<table>
+    <tr>
+        <th>Model</th>
+        <th>Processor Type</th>
+        <th>CPU Speed</th>
+        <th>Memory</th>
+        <th>Price</th>
+    </tr>
+    <tr>
+        <td>Raspberry Pi 0</td>
+        <td>Single-core ARM1176JZF-S</td>
+        <td>1 GHz</td>
+        <td>512 MB</td>
+        <td>Approx. $5</td>
+    </tr>
+    <tr>
+        <td>Raspberry Pi 0 2W</td>
+        <td>Quad-core Cortex-A53 (ARMv8)</td>
+        <td>1 GHz</td>
+        <td>512 MB</td>
+        <td>Approx. $15</td>
+    </tr>
+    <tr>
+        <td>Raspberry Pi 4</td>
+        <td>Quad-core Cortex-A72 (ARM v8) 64-bit SoC</td>
+        <td>1.5 GHz</td>
+        <td>2 GB/4 GB/8 GB (varies)</td>
+        <td>Starts at approx. $35</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
     
 <A NAME="P3"></A>
 <HR>
-<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
     
 # Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
 
