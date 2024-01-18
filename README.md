@@ -280,7 +280,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <th>OS Used</th>
     </tr>
     <tr>
-        <td>Raspberry Pi 0</td>
+        <td>0</td>
         <td>2015</td>
         <td>Single-core <A HREF="https://en.wikipedia.org/wiki/ARM11">ARM1176JZF-S</A> <BR>32-bit SoC</td>
         <td>1 GHz</td>
@@ -289,7 +289,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>Raspberry Pi OS Legacy, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
     </tr>
     <tr>
-        <td>Raspberry Pi 0 2W</td>
+        <td>0 2W</td>
         <td>2021</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A53">Cortex-A53</A>  (ARMv8-A) 64-bit SoC</td>
         <td>1 GHz</td>
@@ -298,7 +298,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>Raspberry Pi OS Legacy, 32-bits, Debian <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
     </tr>
     <tr>
-        <td>Raspberry Pi 4</td>
+        <td>4</td>
         <td>2019</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A>  (ARM v8-A) 64-bit SoC</td>
         <td>1.5 GHz</td>
@@ -307,7 +307,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td> </td>
     </tr>
     <tr>
-        <td>Raspberry Pi 4</td>
+        <td>4</td>
         <td>2020</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A> (ARM v8-A) 64-bit SoC</td>
         <td>1.5 GHz</td>
@@ -316,7 +316,7 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td> </td>
     </tr>
     <tr>
-        <td>Raspberry Pi 5</td>
+        <td>5</td>
         <td>2023</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A76">Cortex-A76</A>  (ARM v8.2A) 64-bit SoC</td>
         <td>2.4 GHz</td>
