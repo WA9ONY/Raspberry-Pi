@@ -42,28 +42,6 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
 The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping up to [90,000 a week in February](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february) 2024. These notes and related YouTube videos will be focused on suplemential informantion beyond what Paul McWhorter has covered in his excellent tutorials.
 
-## Raspberry Pi SBC Models (* models are used for these tutorials.)
-Raspberry Pi prices as of Jan. 8, 2024
-+ *2015 $10 Raspberry Pi Zero V1.3, 500 MB, 1 GHz 1 core [Adafruit](https://www.adafruit.com/product/2885)
-  + Bullseye 32 bit OS
-  + Ethernet Hub and USB Hub w/ Micro USB OTG Connector [Adafruit](https://www.adafruit.com/product/2992)
-  + Mini HDMI to HDMI Cable - 5 feet [Adafruit](https://www.adafruit.com/product/2775)
-  + Break-away 0.1" 2x20-pin Strip Dual Male Header [Adafruit](https://www.adafruit.com/product/2822)
-  + Pi Foundation Raspberry Pi Zero Case + Mini Camera Cable [Adafruit](https://www.adafruit.com/product/3446)
-  + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
-  + 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable [Adafruit](https://www.adafruit.com/product/1995)
-+ *2021 $15 Raspberry Pi Zero 2 W 1 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/5291)
-  + Bullseye 32 bit OS
-+ *2019 $35 Raspberry Pi 4 Model B 1 Gb RAM 1.8 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/4295) 
-  + Bookworm 32 bit OS
-+ 2019 $45 Raspberry Pi 4 Model B 2 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4292) 
-+ 2019 $55 Raspberry Pi 4 Model B 4 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4296) 
-+ *2020 $70 Raspberry Pi 4 Model B 8 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/4564) 
-  + Bookworm 32 bit OS
-+ 2020 $70 Raspberry Pi 400 4 GbR RAM, 4 cores  [Adafruit](https://www.adafruit.com/product/4795) 
-+ 2023 $60 Raspberry Pi 5 Model B 4 Gb RAM, 4 cores [Adafruit](https://www.adafruit.com/product/5812) 
-+ *2023 $80 Raspberry Pi 5 Model B 8 Gb RAM 2.4 GHz, 4 cores [Adafruit](https://www.adafruit.com/product/5813) Recommended for GUI OS.
-  + Bookworm 64 bit OS
 
 ## Building a Raspberry Pi Model 5 Computer
 Require items:
@@ -154,6 +132,18 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 
 + [The Official Raspberry Pi Beginner’s Guide, 5th Edition](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e)
 + [Tom's Hardware Raspberry Pi](https://www.tomshardware.com/raspberry-pi)
+
+## Raspberry Pi Zero
+Raspberry Pi prices as of Jan. 8, 2024
++ *2015 $10 Raspberry Pi Zero V1.3, 500 MB, 1 GHz 1 core [Adafruit](https://www.adafruit.com/product/2885)
+  + Bullseye 32 bit OS
+  + Ethernet Hub and USB Hub w/ Micro USB OTG Connector [Adafruit](https://www.adafruit.com/product/2992)
+  + Mini HDMI to HDMI Cable - 5 feet [Adafruit](https://www.adafruit.com/product/2775)
+  + Break-away 0.1" 2x20-pin Strip Dual Male Header [Adafruit](https://www.adafruit.com/product/2822)
+  + Pi Foundation Raspberry Pi Zero Case + Mini Camera Cable [Adafruit](https://www.adafruit.com/product/3446)
+  + SanDisk 64GB High Endurance Video MicroSDXC Card with Adapter for Dash Cam and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-064G-GN6IA [Amazon](https://www.amazon.com/gp/product/B07P3D6Y5B/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1)
+  + 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable [Adafruit](https://www.adafruit.com/product/1995)
+ + Bookworm 64 bit OS
 
 
 <A NAME="L2"></A>
@@ -272,65 +262,65 @@ Thony is a Python IDE that is a standard install in the Raspberry Pi OS.
 <table>
     <tr>
         <th>Model</th>
+        <th>Price</th>
         <th>Date</th>
         <th>Processor Type</th>
         <th>CPU Speed</th>
         <th>Memory</th>
-        <th>Price</th>
         <th>OS Installed</th>
     </tr>
     <tr>
         <td>0</td>
+        <td><A HREF="https://www.adafruit.com/product/2885">$10</A></td>
         <td>2015</td>
         <td>Single-core <A HREF="https://en.wikipedia.org/wiki/ARM11">ARM1176JZF-S</A><BR>32-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
-        <td><A HREF="https://www.adafruit.com/product/2885">$10</A></td>
         <td>Raspberry Pi OS Legacy, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
     </tr>
     <tr>
         <td>0 2W</td>
+        <td><A HREF="https://www.adafruit.com/product/5291">$15</A></td>
         <td>2021</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A53">Cortex-A53</A><BR>(ARMv8-A) 64-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
-        <td><A HREF="https://www.adafruit.com/product/5291">$15</A></td>
         <td>Raspberry Pi OS Legacy, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
     </tr>
     <tr>
         <td>4</td>
+        <td><A HREF="https://www.adafruit.com/product/4295">$35</A></td>
         <td>2019</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A><BR>(ARM v8-A) 64-bit SoC</td>
         <td>1.8 GHz</td>
         <td>1 GB</td>
-        <td><A HREF="https://www.adafruit.com/product/4295">$35</A></td>
         <td>Raspberry Pi OS, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
     <tr>
         <td>5</td>
+        <td><A HREF="https://www.adafruit.com/product/5812">$60</A></td>
         <td>2023</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A76">Cortex-A76</A><BR>(ARM v8.2A) 64-bit SoC</td>
         <td>2.4 GHz</td>
         <td>4 GB</td>
-        <td><A HREF="https://www.adafruit.com/product/5812">$60</A></td>
         <td>Raspberry Pi OS, 64-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
     <tr>
         <td>4</td>
+        <td><A HREF="https://www.adafruit.com/product/4564">$75</A></td>
         <td>2020</td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A><BR>(ARM v8-A) 64-bit SoC</td>
         <td>1.8 GHz</td>
         <td>8 GB</td>
-        <td><A HREF="https://www.adafruit.com/product/4564">$75</A></td>
         <td>Raspberry Pi OS Full, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
     <tr>
         <td>5</td>
         <td>2023</td>
+        <td><A HREF="https://www.adafruit.com/product/5813">$80</A></td>
         <td>Quad-core <A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A76">Cortex-A76</A><BR>(ARM v8.2A) 64-bit SoC</td>
         <td>2.4 GHz</td>
         <td>8 GB</td>
-        <td><A HREF="https://www.adafruit.com/product/5813">$80</A></td>
         <td>Raspberry Pi OS Full, 64-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
 </table>
