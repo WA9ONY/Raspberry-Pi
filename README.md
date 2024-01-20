@@ -276,7 +276,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>Single-core<BR> <A HREF="https://en.wikipedia.org/wiki/ARM11">ARM1176JZF-S</A><BR>32-bit SoC</td>
         <td>1 GHz</td>
         <td>512 MB</td>
-        <td>Raspberry Pi OS Legacy, 32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
+        <td>Raspberry Pi OS Legacy,<BR>32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bullseye</A></td>
     </tr>
     <tr>
         <td>0 2W</td>
@@ -294,7 +294,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>Quad-core<BR><A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A72">Cortex-A72</A><BR>(ARM v8-A) 64-bit SoC</td>
         <td>1.8 GHz</td>
         <td>1 GB</td>
-        <td>Raspberry Pi OS, 32-bits,<BR><A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
+        <td>Raspberry Pi OS,<BR>32-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
     <tr>
         <td>5</td>
@@ -303,7 +303,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
         <td>Quad-core<BR><A HREF="https://en.wikipedia.org/wiki/ARM_Cortex-A76">Cortex-A76</A><BR>(ARM v8.2A) 64-bit SoC</td>
         <td>2.4 GHz</td>
         <td>4 GB</td>
-        <td>Raspberry Pi OS, 64-bits,<BR><A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
+        <td>Raspberry Pi OS,<BR>64-bits, <A HREF="https://en.wikipedia.org/wiki/Debian">Debian</A> <A HREF="https://en.wikipedia.org/wiki/Debian_version_history">Bookworm</A></td>
     </tr>
     <tr>
         <td>4</td>
