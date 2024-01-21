@@ -518,7 +518,8 @@ Here's a breakdown of what an E-Marker cable does and why it's important:
 
 I hope this explanation helps! Let me know if you have any other questions about USB-C E-Marker cables.
 
---
+---
+
 The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
 
 The Raspberry Pi 5's official power supply is the 27W USB-C PD Power Supply. 
