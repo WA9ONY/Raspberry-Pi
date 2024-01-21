@@ -527,6 +527,9 @@ This power supply can provide up to 5.1V, 5A.
 When the USB-C PD Power Supply is detected, the total power available at the Pi 5's four USB ports increases from 600mA to 1.6A. 
 This allows the Raspberry Pi 5 to power more peripherals.
 
+---
+## USB-C Links
+
 Acroname
 + MASTERING USB-C: HOW USB-C ESTABLISHES A CONNECTION <A HREF="https://acroname.com/blog/mastering-usb-c-how-usb-establishes-a-connection#:~:text=A%20USB%2DC%20receptacle%20has,%2C%20for%20power%20(Vconn).">Link</A>
   + E-Marked cable is required for 5A operation.
