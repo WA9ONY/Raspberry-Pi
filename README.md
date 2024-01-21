@@ -723,8 +723,9 @@ YouTube
 # Project 8: ALL3DP Raspberry Pi Projects Dec. 2023
 
 + [Top 5 Best Raspberry Pi 5 Projects to Try in 2024](https://all3dp.com/2/best-raspberry-pi-5-projects/)
++ [The Best Raspberry Pi 5 Accessories in 2024](https://all3dp.com/2/best-raspberry-pi-5-accessories/)
 + 50 Cool Raspberry Pi Projects for Dec. 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
-
++ ALL3DP [Raspverry search](https://all3dp.com/2/best-raspberry-pi-5-accessories/?s=Raspbery)
 
 
 <A NAME="P9"></A>
