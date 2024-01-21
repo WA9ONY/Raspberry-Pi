@@ -720,11 +720,40 @@ if __name__ == "__main__":
 <HR>
 <P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
     
-# Project 7 Micro text editor
+# Project 7 [Micro](https://micro-editor.github.io/index.html) text editor
 
 YouTube
++ Micro text editor [search](https://www.youtube.com/results?search_query=micro+text+editor)
 + The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
 
+Micro text editor install on Raspberry Pi.
++ apt install micro
+
+---
+## [OpenAI ChatGPT 4](https://chat.openai.com/share/985b4f0e-3ad4-4a65-a2a3-06d6cdfb3e5f): What is Linux Micro text editor?
+
+
+The Linux Micro text editor is a modern and intuitive terminal-based text editor. It's designed to be easy to use and similar to popular graphical editors, making it a favorable choice for those who prefer or require a command-line interface but want features commonly found in graphical editors.
+
+Key features of Micro include:
+
+1. **Ease of Use**: Micro aims to be easy to use and intuitive, especially for those familiar with graphical text editors. It's often recommended for beginners or those transitioning from graphical environments to the command-line.
+
+2. **Cross-Platform**: It works across various operating systems, not just Linux, including macOS and Windows.
+
+3. **Mouse Support**: One of the distinctive features of Micro is its support for mouse operations, something not typically found in terminal-based editors. This feature includes point-and-click for cursor movement, scrolling, and text selection.
+
+4. **Syntax Highlighting**: Micro supports syntax highlighting for a wide range of programming languages, which is helpful for coding and script writing.
+
+5. **Extensibility**: Users can extend Micro's functionality with plugins, and it has a simple plugin system.
+
+6. **Configurable**: Though it aims to work out of the box with sensible defaults, Micro is highly configurable. Users can tweak it to their liking by editing a configuration file.
+
+7. **Shortcuts and Key Bindings**: It includes a rich set of keyboard shortcuts and allows users to create custom key bindings, making it efficient for power users.
+
+8. **Command Palette**: Similar to some graphical editors, Micro offers a command palette for quick access to its features and commands.
+
+Micro is particularly appreciated in scenarios where a powerful but straightforward editor is needed without the steep learning curve of traditional terminal-based editors like Vim or Emacs. It's written in the Go programming language, contributing to its performance and portability.
     
 <A NAME="P8"></A>
 <HR>
