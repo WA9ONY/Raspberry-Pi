@@ -14,7 +14,7 @@
 + Project 5: <A HREF="README.md#P5">USB-C PD</A>
 + Project 6: <A HREF="README.md#P6">Pystone Benchmark</A>
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
-+ Project 8: <A HREF="README.md#P8">ALL3DP Raspberry Pi Projects Dec. 2023</A>
++ Project 8: <A HREF="README.md#P8">ALL3DP Raspberry Pi</A>
 + Project 9: <A HREF="README.md#P9">Raspberry Pi IoT</A>
 
 
@@ -720,7 +720,7 @@ YouTube
 <HR>
 <P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
     
-# Project 8: ALL3DP Raspberry Pi Projects Dec. 2023
+# Project 8: ALL3DP Raspberry Pi
 
 + [Top 5 Best Raspberry Pi 5 Projects to Try in 2024](https://all3dp.com/2/best-raspberry-pi-5-projects/)
 + [The Best Raspberry Pi 5 Accessories in 2024](https://all3dp.com/2/best-raspberry-pi-5-accessories/)
