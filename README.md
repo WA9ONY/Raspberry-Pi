@@ -31,8 +31,8 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
   + [Raspberry Pi 4](https://www.raspberrypi.com/documentation/computers/raspberry-pi-4.html)
 ---
-I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorial, coding, etc. 
-<B>Warning chatbots do make errors.</B>
+I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create code, etc. 
+<BR><B>Warning chatbots do make errors.</B>
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 is [$20/month](https://openai.com/chatgpt/pricing) is limited to information before April 2023. Therefore, ChatGPT 4 does not have information on the Raspberry Pi 5.
     + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing). 
