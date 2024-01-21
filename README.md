@@ -9,13 +9,13 @@
   + Lession 3: <A HREF="README.md#L3">Raspberry Pi LESSON 3: Python Essentials in One Session</A>
   + Lession 4: <A HREF="README.md#L4">Raspberry Pi LESSON 4: Understanding and Using GPIO Pins</A>
 + Project 2: <A HREF="README.md#P2">Raspberry Pi Models used for tutorials</A>
-+ Project 3: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
-+ Project 4: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
-+ Project 5: <A HREF="README.md#P9">USB-C PD</A>
-+ Project 6: <A HREF="README.md#P8">Pystone Benchmark</A>
++ Project 3: <A HREF="README.md#P3">Raspberry Pi Zero V1.3 and the V1.1</A>
++ Project 4: <A HREF="README.md#P4">Raspberry Pi Zero W & Zero W2</A>
++ Project 5: <A HREF="README.md#P5">USB-C PD</A>
++ Project 6: <A HREF="README.md#P6">Pystone Benchmark</A>
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
-+ Project 8: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
-+ Project 9: <A HREF="README.md#P4">Raspberry Pi IoT</A>
++ Project 8: <A HREF="README.md#P8">ALL3DP Raspberry Pi Projects Dec. 2023</A>
++ Project 9: <A HREF="README.md#P9">Raspberry Pi IoT</A>
 
 
 <A NAME="P1"></A>
