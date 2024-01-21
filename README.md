@@ -705,9 +705,6 @@ if __name__ == "__main__":
     pystone(1000000)
 
 
-<p align="center">
-<img width="682" height="452" src="/Images/pystoneBookworm64.png">  
-</p>
 
 <A NAME="P7"></A>
 <HR>
