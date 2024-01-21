@@ -14,7 +14,7 @@
 + Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
 + Project 6: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
-+ Project 8: <A HREF="README.md#P8">Micro text editor</A>
++ Project 8: <A HREF="README.md#P8">Pystone Benchmark</A>
 + Project 9: <A HREF="README.md#P9">USB-C PD</A>
 
 
