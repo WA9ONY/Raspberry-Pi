@@ -411,7 +411,50 @@ Source: Conversation with Bing, 8/10/2023
 <HR>
 <P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
     
-# Project 5 Pystone Benchmark
+# Project 5 USB-C PD
+
+The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
+
+The Raspberry Pi 5's official power supply is the 27W USB-C PD Power Supply. 
+This power supply can provide up to 5.1V, 5A. 
+When the USB-C PD Power Supply is detected, the total power available at the Pi 5's four USB ports increases from 600mA to 1.6A. 
+This allows the Raspberry Pi 5 to power more peripherals.
+
+Acroname
++ MASTERING USB-C: HOW USB-C ESTABLISHES A CONNECTION <A HREF="https://acroname.com/blog/mastering-usb-c-how-usb-establishes-a-connection#:~:text=A%20USB%2DC%20receptacle%20has,%2C%20for%20power%20(Vconn).">Link</A>
+  + E-Marked cable is required for 5A operation.
+ 
+Raspberry Pi
++ <A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">Introducing: Raspberry Pi 5!</A>
+
+Reddit
++ <A HREF="https://www.reddit.com/r/UsbCHardware/comments/16v1ub2/pi_5_5v5a/">Pi 5 - 5V5A?!</A>
+
+<A HREF="https://www.usb.org/">USB.org</A>
++ <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50">USB Power Delivery</A> documentation search
+
+YouTube
++ USB Power Delivery: Power for Portable (and Other) Products -- CUI Inc and Mouser Electronics <A HREF="https://youtu.be/n6Ie9N1LsCo?si=EGAhI6CALF5-gUoB">video</A>
++ USB Type-C Power Delivery Trigger Board || DIY or Buy<A HREF="https://youtu.be/DQLrZA5RMjQ?si=xICQGoj_c5sonMYX">video</A>
+  + <A HREF="https://www.tindie.com/products/reclaimerlabs/usb-c-explorer/">USB-C Explorer</A>
+
+TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
+
+Explore the Basics of USB-C and USB Power Delivery
+<A HREF="https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery">ASME</A>
+
+Trigger Modules and Cable 
++ Adafruit USB Type C Power Delivery Dummy Breakout - I2C or Fixed - <A HREF="https://www.adafruit.com/product/5807">HUSB238</A>
+  + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
++ AllExpress
+  + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD     
+
+
+<A NAME="P6"></A>
+<HR>
+<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P7">--&gt;</A></P>  
+    
+# Project 6 Pystone Benchmark
 
 Certainly! As a college computer science professor, introducing the Pystone benchmark in a Python programming class would involve explaining its purpose, history, and how it is used. Here's how you might start the class:
 
@@ -556,49 +599,6 @@ if __name__ == "__main__":
 <img width="682" height="452" src="/Images/pystoneBookworm64.png">  
 </p>
 
-
-<A NAME="P9"></A>
-<HR>
-<P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
-    
-# Project 9 USB-C PD
-
-The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
-
-The Raspberry Pi 5's official power supply is the 27W USB-C PD Power Supply. 
-This power supply can provide up to 5.1V, 5A. 
-When the USB-C PD Power Supply is detected, the total power available at the Pi 5's four USB ports increases from 600mA to 1.6A. 
-This allows the Raspberry Pi 5 to power more peripherals.
-
-Acroname
-+ MASTERING USB-C: HOW USB-C ESTABLISHES A CONNECTION <A HREF="https://acroname.com/blog/mastering-usb-c-how-usb-establishes-a-connection#:~:text=A%20USB%2DC%20receptacle%20has,%2C%20for%20power%20(Vconn).">Link</A>
-  + E-Marked cable is required for 5A operation.
- 
-Raspberry Pi
-+ <A HREF="https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#:~:text=peak%20power%20consumption%20increases,using%20a%203A%20adapter.">Introducing: Raspberry Pi 5!</A>
-
-Reddit
-+ <A HREF="https://www.reddit.com/r/UsbCHardware/comments/16v1ub2/pi_5_5v5a/">Pi 5 - 5V5A?!</A>
-
-<A HREF="https://www.usb.org/">USB.org</A>
-+ <A HREF="https://usb.org/documents?search=USB+Power+Delivery&items_per_page=50">USB Power Delivery</A> documentation search
-
-YouTube
-+ USB Power Delivery: Power for Portable (and Other) Products -- CUI Inc and Mouser Electronics <A HREF="https://youtu.be/n6Ie9N1LsCo?si=EGAhI6CALF5-gUoB">video</A>
-+ USB Type-C Power Delivery Trigger Board || DIY or Buy<A HREF="https://youtu.be/DQLrZA5RMjQ?si=xICQGoj_c5sonMYX">video</A>
-  + <A HREF="https://www.tindie.com/products/reclaimerlabs/usb-c-explorer/">USB-C Explorer</A>
-
-TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
-
-Explore the Basics of USB-C and USB Power Delivery
-<A HREF="https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery">ASME</A>
-
-Trigger Modules and Cable 
-+ Adafruit USB Type C Power Delivery Dummy Breakout - I2C or Fixed - <A HREF="https://www.adafruit.com/product/5807">HUSB238</A>
-  + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
-+ AllExpress
-  + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD     
-
 <A NAME="P7"></A>
 <HR>
 <P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
@@ -609,11 +609,11 @@ YouTube
 + The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
 
     
-<A NAME="P3"></A>
+<A NAME="P8"></A>
 <HR>
-<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
+<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
     
-# Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
+# Project 7: ALL3DP Raspberry Pi Projects Dec. 2023
 
 + 50 Cool Raspberry Pi Projects for Dec. 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
 
