@@ -30,8 +30,13 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
     + [SunFounder Ulimate Raphael Kit for Raspberry Pi](https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html)
   + [Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
   + [Raspberry Pi 4](https://www.raspberrypi.com/documentation/computers/raspberry-pi-4.html)
-  + [OpenAI](https://openai.com/)
-
+---
+I use the following chatbots for additional information, tutorial, coding, etc.
+  + OpenAI[ChatGPT](https://openai.com/)
+    + ChatGPT 4 ($20/month) is limited to information before April 2023. Therefore, ChatGPT 4 does not have information on the Raspberry Pi 5.
+    + ChatGPT 3.4 is free. 
+  + Google [Brad](https://bard.google.com/chat)
+  + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
 
 <A NAME="L1"></A>
 <HR>
