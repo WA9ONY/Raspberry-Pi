@@ -545,7 +545,7 @@ Reddit
 
 YouTube
 + USB Power Delivery: Power for Portable (and Other) Products -- CUI Inc and Mouser Electronics <A HREF="https://youtu.be/n6Ie9N1LsCo?si=EGAhI6CALF5-gUoB">video</A>
-+ USB Type-C Power Delivery Trigger Board || DIY or Buy<A HREF="https://youtu.be/DQLrZA5RMjQ?si=xICQGoj_c5sonMYX">video</A>
++ USB Type-C Power Delivery Trigger Board || DIY or Buy <A HREF="https://youtu.be/DQLrZA5RMjQ?si=xICQGoj_c5sonMYX">video</A>
   + <A HREF="https://www.tindie.com/products/reclaimerlabs/usb-c-explorer/">USB-C Explorer</A>
 
 TI A Primer on USB Type-C® and USB Power Delivery Applications and Requirements <A HREF="https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf?ts=1682067298687&ref_url=https%253A%252F%252Fwww.google.com%252F">PDF</A>
