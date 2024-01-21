@@ -459,6 +459,35 @@ I hope this clarifies the differences between Raspberry Pi Zero W and Zero W2!
     
 # Project 5 USB-C PD
 
+## [Google Brad Chat](https://g.co/bard/share/f5c3c0a9107e): What is USB-C E-Marker cable?
+
+A USB-C E-Marker cable is a type of USB-C cable that contains a tiny chip called an "E-Marker" (short for "electronic marker"). This chip acts like a digital passport for the cable, broadcasting its capabilities to connected devices. 
+
+Here's a breakdown of what an E-Marker cable does and why it's important:
+
+**What it does:**
+
+* **Communicates cable capabilities:** The E-Marker chip tells connected devices the cable's maximum power output, data transfer speed, and other important information. This ensures safe and efficient operation, especially for high-power devices.
+* **Enables faster charging:** E-Marker cables are required for USB-C Power Delivery (PD) charging at 60W and above. Without the chip, devices might not negotiate the correct power levels, leading to slow charging or even damage.
+* **Supports faster data transfer:** E-Marker cables are also mandatory for USB 3.1 Gen 2 (10Gbps) data transfer speeds. This ensures your devices can take full advantage of the latest USB technology.
+
+[Image of USB-C E-Marker cable]
+
+**Benefits of using an E-Marker cable:**
+
+* **Faster charging:** Get your devices charged up quickly and safely, especially with powerful laptops and smartphones.
+* **Reliable data transfer:** Enjoy lag-free data transfer for tasks like video editing and external storage.
+* **Peace of mind:** Knowing your cable is properly communicating its capabilities gives you peace of mind that your devices are protected from damage.
+
+**Things to remember:**
+
+* Not all USB-C cables are E-Marker cables. Look for the E-Marker logo or certification on the packaging or cable itself.
+* E-Marker cables are generally slightly more expensive than non-E-Marker cables.
+* If you're not sure whether you need an E-Marker cable, check the specifications of your devices. Most modern laptops and smartphones will benefit from using one.
+
+I hope this explanation helps! Let me know if you have any other questions about USB-C E-Marker cables.
+
+--
 The Raspberry Pi 5 uses USB-3 PD protocol to request 5V at 5A.  
 
 The Raspberry Pi 5's official power supply is the 27W USB-C PD Power Supply. 
