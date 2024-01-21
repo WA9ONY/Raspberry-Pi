@@ -410,26 +410,46 @@ Ultimately, **the choice between V1.3 and V1.1 comes down to availability and sp
 Remember, both versions are still supported by the Raspberry Pi community and run the same software. Choose the one that best fits your budget and project requirements.
 
 
-
 <A NAME="P4"></A>
 <HR>
 <P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
     
 # Project 4 Raspberry Pi Zero W & Zero W2
 
-## Bing Chat: What is the difference between the Raspberry Pi Zero W and the Raspberry pi Zero W2?
+## [Google Brad Chat](https://g.co/bard/share/551f24aa9d94): What is the difference between the Raspberry Pi Zero W and the Raspberry Pi Zero W2?
 
-The Raspberry Pi Zero W is a low power computer with WiFi and Bluetooth capabilities. It is designed to be flexible and compact with mini connectors and an unpopulated 40-pin GPIO. It has a 1GHz BCM2835 single-core processor and 512MB RAM¹. The Raspberry Pi Zero 2 W is an updated version with a quad-core 64-bit ARM Cortex-A53 processor clocked at 1GHz and 512MB of SDRAM, making it up to five times faster than the original Raspberry Pi Zero¹. 
+Both Raspberry Pi Zero W and Zero W2 are tiny single-board computers, but the Zero W2 offers a significant performance boost along with other improvements. Here's a breakdown of their key differences:
 
-I hope this helps!
+**Processor and Performance:**
 
-Source: Conversation with Bing, 8/10/2023
-+ (1) Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started. https://www.tomshardware.com/features/raspberry-pi-zero.
-+ (2) https://bing.com/search?q=difference+between+Raspberry+pi+Zero+W+and+Raspberry+pi+Zero+W2.
-+ (3) Raspberry Pi Zero 2 W vs Raspberry Pi Zero W: What Upgrades ... - Beebom. https://beebom.com/raspberry-pi-zero-2-w-vs-raspberry-pi-zero-w/.
-+ (4) Raspberry Pi Zero 2 W vs. Raspberry Pi Zero W - SB Components Ltd. https://shop.sb-components.co.uk/blogs/posts/raspberry-pi-zero-2-w-vs-raspberry-pi-zero-w-comparison.
-+ (5) Raspberry Pi Zero 2 W Review: The Long Awaited Sequel. https://www.tomshardware.com/reviews/raspberry-pi-zero-2-w-review.
-+ (6) New product: Raspberry Pi Zero 2 W on sale now at $15. https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/.
+* **Zero W:** Single-core 1GHz CPU (ARM Cortex-A7)
+* **Zero W2:** Quad-core 1GHz CPU (ARM Cortex-A53)
+* This translates to roughly **5 times faster performance** on the Zero W2, making it suitable for more demanding tasks.
+
+**RAM:**
+
+* Both have 512MB of RAM, but the Zero W2 uses faster LPDDR2 SDRAM while the Zero W uses older DDR2 SDRAM.
+
+**Other Differences:**
+
+* **Bluetooth:** Zero W2 has Bluetooth 4.2 while Zero W has 4.1.
+* **Power consumption:** Zero W2 might slightly higher power consumption due to the faster processor.
+* **Price:** Zero W2 is slightly more expensive due to the upgraded components.
+
+**Similarities:**
+
+* Both share the same tiny form factor (30mm x 65mm) and most ports, including mini HDMI, micro USB, and a microSD card slot.
+* Both run the same operating system (Raspbian) and software compatible with the ARM architecture.
+
+**Choosing between them:**
+
+* **Zero W:** Suitable for **basic projects** like retro gaming, simple robotics, and basic web browsing.
+* **Zero W2:** Ideal for **more demanding tasks** like media streaming, AI projects, and complex programming.
+
+Ultimately, the choice depends on your project requirements and budget. If you need the extra performance, Zero W2 is the better option, but if your project is simple and cost-sensitive, Zero W might still be sufficient.
+
+I hope this clarifies the differences between Raspberry Pi Zero W and Zero W2!
+
 
 
 <A NAME="P5"></A>
