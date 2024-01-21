@@ -459,6 +459,37 @@ I hope this clarifies the differences between Raspberry Pi Zero W and Zero W2!
     
 # Project 5 USB-C PD
 
+[Powering the Raspberry Pi 5](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html#powering-raspberry-pi-5) requires a USB-C PD power supple that delivers 5V at 5A to provide 1.6A total to the four USB interfaces.
+Other wise the current is limited to 600 mA to all four USB interfaces.
+
+## [Google Brad Chat](https://g.co/bard/share/dba87e2ea909): What is USB-C PD?
+?
+USB-C PD stands for **USB-C Power Delivery** and it's a fast-charging technology that significantly improves upon the standard USB capabilities. Here's a breakdown of what it is and why it's useful:
+
+**What it is:**
+
+* A **specification** defining how power is delivered through a USB-C port.
+* Enables delivering **up to 240 watts** of power, compared to the standard USB's 5 watts.
+* Allows devices to **communicate and negotiate** the exact amount of power needed, maximizing charging efficiency and safety.
+
+**Benefits:**
+
+* **Faster charging**: Smartphones can power up to 70% faster, laptops and tablets can even get full charges in much shorter times.
+* **One charger for all**: PD chargers are **universal** and can work with various devices, eliminating the need for multiple chargers.
+* **More powerful devices**: Laptops, monitors, and even external batteries can be powered directly through USB-C PD, reducing cable clutter and simplifying setups.
+* **Safely deliver higher power**: PD technology communicates between devices to ensure the right voltage and current are delivered, preventing device damage.
+
+**Things to remember:**
+
+* Not all USB-C ports support PD, check your device's specifications.
+* The maximum wattage depends on the capabilities of both the charger and the device.
+* Thicker and higher-rated cables are recommended for higher power applications.
+
+Overall, USB-C PD is a game-changer for charging, offering faster speeds, versatility, and convenience. If you're looking for a future-proof and efficient way to power your devices, PD is definitely worth considering.
+
+I hope this explanation helps! If you have any further questions about USB-C PD, feel free to ask.
+
+---
 ## [Google Brad Chat](https://g.co/bard/share/f5c3c0a9107e): What is USB-C E-Marker cable?
 
 A USB-C E-Marker cable is a type of USB-C cable that contains a tiny chip called an "E-Marker" (short for "electronic marker"). This chip acts like a digital passport for the cable, broadcasting its capabilities to connected devices. 
