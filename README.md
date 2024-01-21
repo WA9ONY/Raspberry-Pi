@@ -118,8 +118,9 @@ A microSD card is the most popular method to use the Raspberry Pi computer OS.
 ## Chromium
   + Add bookmarks menu bar
     + [Raspberry Pi](https://www.raspberrypi.com/)
-    + [WA9ONY]()
+    + [WA9ONY](https://www.qrz.com/db/WA9ONY)
     + [OpenAI](https://openai.com/)
+    + [GitHub](https://github.com/WA9ONY/Raspberry-Pi)
   + Change search to Google
 
 ## Resources
