@@ -367,11 +367,11 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 </p>
     
 
-<A NAME="P5"></A>
+<A NAME="P3"></A>
 <HR>
-<P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
     
-# Project 5 Raspberry Pi Zero V1.3 and the V1.1
+# Project 3 Raspberry Pi Zero V1.3 and the V1.1
 
 ## Bing Chat: What is the difference between the Raspberry Pi Zero V1.3 and the V1.1?
 
@@ -386,11 +386,11 @@ Source: Conversation with Bing, 8/10/2023
 + (4) Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started. https://www.tomshardware.com/features/raspberry-pi-zero.
 
 
-<A NAME="P6"></A>
+<A NAME="P4"></A>
 <HR>
-<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P7">--&gt;</A></P>  
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
     
-# Project 6 Raspberry Pi Zero W & Zero W2
+# Project 4 Raspberry Pi Zero W & Zero W2
 
 ## Bing Chat: What is the difference between the Raspberry Pi Zero W and the Raspberry pi Zero W2?
 
@@ -407,11 +407,11 @@ Source: Conversation with Bing, 8/10/2023
 + (6) New product: Raspberry Pi Zero 2 W on sale now at $15. https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/.
 
 
-<A NAME="P8"></A>
+<A NAME="P5"></A>
 <HR>
-<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
+<P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
     
-# Project 8 Pystone Benchmark
+# Project 5 Pystone Benchmark
 
 Certainly! As a college computer science professor, introducing the Pystone benchmark in a Python programming class would involve explaining its purpose, history, and how it is used. Here's how you might start the class:
 
