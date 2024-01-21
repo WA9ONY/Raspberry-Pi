@@ -373,17 +373,42 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
     
 # Project 3 Raspberry Pi Zero V1.3 and the V1.1
 
-## Bing Chat: What is the difference between the Raspberry Pi Zero V1.3 and the V1.1?
+## [Google Brad Chat](https://g.co/bard/share/dfbd54199461): What is the difference between the Raspberry Pi Zero V1.3 and the V1.1?
 
-The Raspberry Pi Zero V1.3 has a camera connector while the V1.1 does not have one¹. The Pi Zero W v1.1 does come with the 15-pin MIPI camera interface (CSI) connector - it is just not labelled as it is on the Pi Zero v1.3². 
+There are **minimal differences** between the Raspberry Pi Zero V1.3 and V1.1. Both versions share the same core features:
 
-I hope this helps!
+* **Processor:** BCM2835, single-core 1GHz ARM11
+* **RAM:** 512MB
+* **Storage:** microSD card slot
+* **Video output:** mini HDMI (1080p)
+* **GPIO pins:** 40-pin header
+* **Power:** Micro USB
 
-Source: Conversation with Bing, 8/10/2023
-+ (1) Raspberry Pi zero v1.3 Vs Raspberry Pi Zero W v1.1. https://forums.raspberrypi.com/viewtopic.php?t=266055.
-+ (2) "Raspberry Pi Zero W" version Help. https://raspberrypi.stackexchange.com/questions/89983/raspberry-pi-zero-w-version-help.
-+ (3) Evolution of Raspberry Pi Zero in 3 Versions - TECHDesign Blog. https://blog.techdesign.com/evolution-raspberry-pi-zero-3-versions/.
-+ (4) Raspberry Pi Zero Guide: Projects, Specs, GPIO, Getting Started. https://www.tomshardware.com/features/raspberry-pi-zero.
+The **key difference** between V1.3 and V1.1 lies in **minor internal component revisions and layout changes**:
+
+* **V1.3:** This is the latest revision and features various minor adjustments to component placement and circuitry. However, these changes **don't impact performance or functionality** compared to V1.1.
+* **V1.1:** This version introduced the camera connector in 2016, shifting some components around on the board. Additionally, there may be slight variations in specific components used but again, with **no noticeable impact on performance**.
+
+Here's a breakdown of the main points:
+
+**Similarities:**
+
+* Same overall functionality and performance
+* Compatible with the same operating systems and software
+* Identical pin layout and GPIO capabilities
+
+**Differences:**
+
+* V1.3 has slightly updated internal components and layout compared to V1.1
+* V1.1 introduced the camera connector, absent in V1.3
+
+Ultimately, **the choice between V1.3 and V1.1 comes down to availability and specific needs**:
+
+* **If you need a camera connector:** Opt for V1.1 or the Raspberry Pi Zero W, which offers Wi-Fi and Bluetooth in addition to the camera port.
+* **If a camera connector isn't crucial:** V1.3 (or an older V1.2, for that matter) is perfectly suitable and often slightly cheaper.
+
+Remember, both versions are still supported by the Raspberry Pi community and run the same software. Choose the one that best fits your budget and project requirements.
+
 
 
 <A NAME="P4"></A>
