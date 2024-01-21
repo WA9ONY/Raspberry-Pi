@@ -9,13 +9,13 @@
   + Lession 3: <A HREF="README.md#L3">Raspberry Pi LESSON 3: Python Essentials in One Session</A>
   + Lession 4: <A HREF="README.md#L4">Raspberry Pi LESSON 4: Understanding and Using GPIO Pins</A>
 + Project 2: <A HREF="README.md#P2">Raspberry Pi Models used for tutorials</A>
-+ Project 3: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
-+ Project 4: <A HREF="README.md#P4">Raspberry Pi IoT</A>
-+ Project 5: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
-+ Project 6: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
++ Project 3: <A HREF="README.md#P5">Raspberry Pi Zero V1.3 and the V1.1</A>
++ Project 4: <A HREF="README.md#P6">Raspberry Pi Zero W & Zero W2</A>
++ Project 5: <A HREF="README.md#P9">USB-C PD</A>
++ Project 6: <A HREF="README.md#P8">Pystone Benchmark</A>
 + Project 7: <A HREF="README.md#P7">Micro text editor</A>
-+ Project 8: <A HREF="README.md#P8">Pystone Benchmark</A>
-+ Project 9: <A HREF="README.md#P9">USB-C PD</A>
++ Project 8: <A HREF="README.md#P3">ALL3DP Raspberry Pi Projects Dec. 2023</A>
++ Project 9: <A HREF="README.md#P4">Raspberry Pi IoT</A>
 
 
 <A NAME="P1"></A>
@@ -260,7 +260,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 <HR>
 <P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
     
-# Project 3: Raspberry Pi Models used for tutorials
+# Project 2: Raspberry Pi Models used for tutorials
 
 ## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Models used in video labs.
 
@@ -366,24 +366,6 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 <img width="592" height="407" src="/Images/rpi5m8g64bitBookworm.png">  
 </p>
     
-    
-<A NAME="P3"></A>
-<HR>
-<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
-    
-# Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
-
-+ 50 Cool Raspberry Pi Projects for Dec. 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
-
-
-<A NAME="P4"></A>
-<HR>
-<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
-    
-# Project 4: Raspberry Pi IoT
-
-+ Microsofft [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners?utm_source=Bazaar+%EF%BC%88%E7%94%B5%E5%95%86%EF%BC%89&utm_campaign=dbaca736d7-Bazaar_7_27_COPY_01&utm_medium=email&utm_term=0_4b071a49e3-dbaca736d7-51625978&ct=t()&mc_cid=dbaca736d7&mc_eid=f23c6667d6)
-
 
 <A NAME="P5"></A>
 <HR>
@@ -423,16 +405,6 @@ Source: Conversation with Bing, 8/10/2023
 + (4) Raspberry Pi Zero 2 W vs. Raspberry Pi Zero W - SB Components Ltd. https://shop.sb-components.co.uk/blogs/posts/raspberry-pi-zero-2-w-vs-raspberry-pi-zero-w-comparison.
 + (5) Raspberry Pi Zero 2 W Review: The Long Awaited Sequel. https://www.tomshardware.com/reviews/raspberry-pi-zero-2-w-review.
 + (6) New product: Raspberry Pi Zero 2 W on sale now at $15. https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/.
-
-
-<A NAME="P7"></A>
-<HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
-    
-# Project 7 Micro text editor
-
-YouTube
-+ The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
 
 
 <A NAME="P8"></A>
@@ -626,3 +598,31 @@ Trigger Modules and Cable
   + YouTube <A HREF="https://www.youtube.com/watch?v=1zSyPxeX3PI">HUSB238</A>
 + AllExpress
   + <A HREF="https://www.aliexpress.com/w/wholesale-USB-C-PD-Trigger-Module.html?catId=0&initiative_id=SB_20231201092930&SearchText=USB+C+PD+Trigger+Module&spm=a2g0o.pay_result.1000002.0">USB C PD     
+
+<A NAME="P7"></A>
+<HR>
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
+    
+# Project 7 Micro text editor
+
+YouTube
++ The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
+
+    
+<A NAME="P3"></A>
+<HR>
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
+    
+# Project 3: ALL3DP Raspberry Pi Projects Dec. 2023
+
++ 50 Cool Raspberry Pi Projects for Dec. 2023 [ALL3DP](https://all3dp.com/1/best-raspberry-pi-projects/?utm_source=newsletter&utm_medium=email&omhide=true)
+
+
+<A NAME="P4"></A>
+<HR>
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
+    
+# Project 4: Raspberry Pi IoT
+
++ Microsofft [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners?utm_source=Bazaar+%EF%BC%88%E7%94%B5%E5%95%86%EF%BC%89&utm_campaign=dbaca736d7-Bazaar_7_27_COPY_01&utm_medium=email&utm_term=0_4b071a49e3-dbaca736d7-51625978&ct=t()&mc_cid=dbaca736d7&mc_eid=f23c6667d6)
+
