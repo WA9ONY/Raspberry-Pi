@@ -722,6 +722,10 @@ if __name__ == "__main__":
     
 # Project 7 [Micro](https://micro-editor.github.io/index.html) text editor
 
+<p align="center">
+<img width="512" height="512" src="/Images/Benchmarking1s.png">  
+</p>
+
 YouTube
 + Micro text editor [search](https://www.youtube.com/results?search_query=micro+text+editor)
 + The BEST Text Editor on Linux? - Micro Text Editor [video](https://youtu.be/Jw9eJu-PY08)
