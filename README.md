@@ -284,6 +284,11 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
     
 # Project 2: Raspberry Pi Models used for tutorials
 
+<p align="center">
+<img width="512" height="512" src="/Images/RPPiLists.png">  
+© David Haworth  
+</p>
+
 ## [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Models used in video labs.
 
 <table>
