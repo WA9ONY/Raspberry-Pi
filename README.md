@@ -3,7 +3,7 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 <p align="center">
-<img width="750" height="512" src="/Images/banner1s.png">  
+<img width="750" height="512" src="/Images/banner1s.png"><BR>  
 © David Haworth  
 </p>
 
