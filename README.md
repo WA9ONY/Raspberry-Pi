@@ -49,6 +49,10 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
     
 # Raspberry Pi [LESSON 1](https://youtu.be/1WDagiA8fdU?si=AgeMTY9t2tvZQ9-e): First Boot and Configuring the Desktop, Panel, Menu and Preferences
 
+<p align="center">
+<img width="512" height="512" src="/Images/RPi1s.png">  
+</p>
+
 This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
 The Raspberry Pi Model 5 is becoming more availabe as manufacturing is ramping up to [90,000 a week in February](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february) 2024. These notes and related YouTube videos will be focused on suplemential informantion beyond what Paul McWhorter has covered in his excellent tutorials.
 
@@ -253,6 +257,10 @@ Raspberry Pi Model 5 Cooling
     
 # Raspberry Pi [LESSON 3](https://youtu.be/Wabv5e0KQaU?si=yIpxu5xF8A6kgbFZ): Raspberry Pi LESSON 3: Python Essentials in One Session
 
+<p align="center">
+<img width="512" height="512" src="/Images/Py1s.png">  
+</p>
+
 ## Thonny
 Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 + Upper right corner, select Switch to regular mode, restart Thonny.
@@ -266,6 +274,9 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
     
 # Raspberry Pi [LESSON 4](https://youtu.be/az90qK3jmDo?si=m2k4nOg8ham_x1cQ): Raspberry Pi LESSON 4 : Understanding and Using GPIO Pins
 
+<p align="center">
+<img width="512" height="512" src="/Images/LED1s.png">  
+</p>
     
 <A NAME="P2"></A>
 <HR>
@@ -576,6 +587,10 @@ Trigger Modules and Cable
     
 # Project 6 Pystone Benchmark
 
+<p align="center">
+<img width="512" height="512" src="/Images/Benchmarking1s.png">  
+</p>
+
 Certainly! As a college computer science professor, introducing the Pystone benchmark in a Python programming class would involve explaining its purpose, history, and how it is used. Here's how you might start the class:
 
 ---
@@ -723,7 +738,7 @@ if __name__ == "__main__":
 # Project 7 [Micro](https://micro-editor.github.io/index.html) text editor
 
 <p align="center">
-<img width="512" height="512" src="/Images/Benchmarking1s.png">  
+<img width="512" height="512" src="/Images/MicroEditors.png">  
 </p>
 
 YouTube
