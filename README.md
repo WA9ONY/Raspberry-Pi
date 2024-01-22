@@ -175,7 +175,7 @@ Raspberry Pi prices as of Jan. 8, 2024
 # Raspberry Pi [LESSON 2](https://youtu.be/8kg3xIifMN4?si=9LhgNdFI9qWE1V-d): Linux Essentials in One Session
 
 <p align="center">
-<img width="750" height="512" src="/Images/clis.png"><BR>  
+<img width="512" height="512" src="/Images/clis.png"><BR>  
 © David Haworth  
 </p>
 
