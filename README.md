@@ -51,7 +51,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 # Raspberry Pi [LESSON 1](https://youtu.be/1WDagiA8fdU?si=AgeMTY9t2tvZQ9-e): First Boot and Configuring the Desktop, Panel, Menu and Preferences
 
 <p align="center">
-<img width="512" height="512" src="/Images/RPi1s.png">  
+<img width="512" height="512" src="/Images/RPi1s.png"><BR>  
 © David Haworth   
 </p>
 
@@ -260,7 +260,7 @@ Raspberry Pi Model 5 Cooling
 # Raspberry Pi [LESSON 3](https://youtu.be/Wabv5e0KQaU?si=yIpxu5xF8A6kgbFZ): Raspberry Pi LESSON 3: Python Essentials in One Session
 
 <p align="center">
-<img width="512" height="512" src="/Images/Py1s.png">  
+<img width="512" height="512" src="/Images/Py1s.png"><BR>
 © David Haworth    
 </p>
 
@@ -278,7 +278,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 # Raspberry Pi [LESSON 4](https://youtu.be/az90qK3jmDo?si=m2k4nOg8ham_x1cQ): Raspberry Pi LESSON 4 : Understanding and Using GPIO Pins
 
 <p align="center">
-<img width="512" height="512" src="/Images/LED1s.png">  
+<img width="512" height="512" src="/Images/LED1s.png"><BR>
 © David Haworth  
 </p>
     
@@ -289,7 +289,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 # Project 2: Raspberry Pi Models used for tutorials
 
 <p align="center">
-<img width="512" height="512" src="/Images/RPPiLists.png">  
+<img width="512" height="512" src="/Images/RPPiLists.png"><BR>
 © David Haworth  
 </p>
 
@@ -597,7 +597,7 @@ Trigger Modules and Cable
 # Project 6 Pystone Benchmark
 
 <p align="center">
-<img width="512" height="512" src="/Images/Benchmarking1s.png">  
+<img width="512" height="512" src="/Images/Benchmarking1s.png"><BR>
 © David Haworth    
 </p>
 
@@ -748,7 +748,7 @@ if __name__ == "__main__":
 # Project 7 [Micro](https://micro-editor.github.io/index.html) text editor
 
 <p align="center">
-<img width="512" height="512" src="/Images/MicroEditors.png">  
+<img width="512" height="512" src="/Images/MicroEditors.png"><BR>
 © David Haworth    
 </p>
 
