@@ -4,6 +4,7 @@
 
 <p align="center">
 <img width="750" height="512" src="/Images/banner1s.png">  
+© David Haworth  
 </p>
 
 # Raspberry Pi Computer Project Notes Index
@@ -51,6 +52,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 <p align="center">
 <img width="512" height="512" src="/Images/RPi1s.png">  
+© David Haworth   
 </p>
 
 This excellent tutorial was created befor the Raspberry Pi Model 5 became available in November 2023.  
@@ -259,6 +261,7 @@ Raspberry Pi Model 5 Cooling
 
 <p align="center">
 <img width="512" height="512" src="/Images/Py1s.png">  
+© David Haworth    
 </p>
 
 ## Thonny
@@ -276,6 +279,7 @@ Thonny is a Python IDE that is a standard install in the Raspberry Pi OS.
 
 <p align="center">
 <img width="512" height="512" src="/Images/LED1s.png">  
+© David Haworth  
 </p>
     
 <A NAME="P2"></A>
@@ -594,6 +598,7 @@ Trigger Modules and Cable
 
 <p align="center">
 <img width="512" height="512" src="/Images/Benchmarking1s.png">  
+© David Haworth    
 </p>
 
 Certainly! As a college computer science professor, introducing the Pystone benchmark in a Python programming class would involve explaining its purpose, history, and how it is used. Here's how you might start the class:
@@ -744,6 +749,7 @@ if __name__ == "__main__":
 
 <p align="center">
 <img width="512" height="512" src="/Images/MicroEditors.png">  
+© David Haworth    
 </p>
 
 YouTube
